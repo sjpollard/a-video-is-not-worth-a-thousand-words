@@ -1,0 +1,1953 @@
+[
+    {
+        "key_information_retrieval_4203": {
+            "key": "Z86xysw5Ncc",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 38.443999999999996,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1920,
+                    "height": 1080
+                }
+            },
+            "uid": "4203",
+            "question": "Who runs on track 5 in round 1 heat 2?",
+            "answer": 3,
+            "question_type": [
+                "key information retrieval"
+            ],
+            "time_reference": "06:06-06:06",
+            "options": [
+                "Asafa powell",
+                "Jaysuma saidy naure",
+                "Pedro",
+                "Rondel sorrillo",
+                "Showcasing amd products",
+                "Sheep",
+                "There is chinese character that means \"ruthless\"",
+                "Tyson gay",
+                "The dog miss the ball thrown by the person"
+            ]
+        }
+    },
+    {
+        "key_information_retrieval_4207": {
+            "key": "Z86xysw5Ncc",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 38.443999999999996,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1920,
+                    "height": 1080
+                }
+            },
+            "uid": "4207",
+            "question": "How long does Justin Gatlin use in Men's 100M Round 1 Heat 2?",
+            "answer": 7,
+            "question_type": [
+                "key information retrieval"
+            ],
+            "time_reference": "07:49-07:49",
+            "options": [
+                "Golden",
+                "David",
+                "10.22s",
+                "She falls on the stage",
+                "4:0",
+                "321",
+                "9.83s",
+                "9.97s",
+                "9.95s"
+            ]
+        }
+    },
+    {
+        "key_information_retrieval_2899": {
+            "key": "RCAqKnvu_P0",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 44.32416666666666,
+                "fps": 30.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "2899",
+            "question": "How long is the vlogger's flight duration to Japan?",
+            "answer": 5,
+            "question_type": [
+                "key information retrieval"
+            ],
+            "time_reference": "00:51-00:51",
+            "options": [
+                "Another twist in rivers politics",
+                "3 hours 30 minutes",
+                "99.5",
+                "The girl completes her performance and receives applause from the audience, she is nervous and excited",
+                "2 hours 45 minutes",
+                "4 hours 45 minutes",
+                "4 hours 30 minutes",
+                "Microsoft",
+                "He put the book on the chair"
+            ]
+        }
+    },
+    {
+        "key_information_retrieval_entity_recognition_1632": {
+            "key": "vaL_vSdZKZo",
+            "type": "documentary",
+            "video_info": {
+                "duration_minutes": 57.88433333333333,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "uid": "1632",
+            "question": "What was written on the building behind Arve Nordeide when he came from a distance?",
+            "answer": 5,
+            "question_type": [
+                "key information retrieval",
+                "entity recognition"
+            ],
+            "time_reference": "54:18-54:27",
+            "options": [
+                "16:59",
+                "Headscarf",
+                "Water",
+                "Don't be late",
+                "Sata",
+                "No smoking",
+                "Beware of danger",
+                "Green",
+                "Safety first"
+            ]
+        }
+    },
+    {
+        "key_information_retrieval_3790": {
+            "key": "T1yhBv1ytzw",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 100.47066666666666,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1920,
+                    "height": 1080
+                }
+            },
+            "uid": "3790",
+            "question": "What is the stoppage time for the first half?",
+            "answer": 4,
+            "question_type": [
+                "key information retrieval"
+            ],
+            "time_reference": "47:10-47:15",
+            "options": [
+                "Dominique",
+                "Letter",
+                "1 minute",
+                "Fried rice cake",
+                "0 minute",
+                "Engaged",
+                "2 minute",
+                "Audi",
+                "3 minute"
+            ]
+        }
+    },
+    {
+        "key_information_retrieval_1113": {
+            "key": "Z4HGQL_McDQ",
+            "type": "documentary",
+            "video_info": {
+                "duration_minutes": 49.33083333333333,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "1113",
+            "question": "What kind of Mercedes-Benz car is this black one?",
+            "answer": 3,
+            "question_type": [
+                "key information retrieval"
+            ],
+            "time_reference": "01:20-01:20",
+            "options": [
+                "Sendai",
+                "205",
+                "Amg gt",
+                "Maybach",
+                "Abiola oladapo",
+                "Asakusa",
+                "Adrian stoica",
+                "C class",
+                "E class"
+            ]
+        }
+    },
+    {
+        "key_information_retrieval_421": {
+            "key": "HfEVEGf1A8Q",
+            "type": "cartoon",
+            "video_info": {
+                "duration_minutes": 81.94516666666667,
+                "fps": 24.0,
+                "resolution": {
+                    "width": 640,
+                    "height": 268
+                }
+            },
+            "uid": "421",
+            "question": "Who is the director of this video?",
+            "answer": 7,
+            "question_type": [
+                "key information retrieval"
+            ],
+            "time_reference": "77:53-78:00",
+            "options": [
+                "Bong joon ho",
+                "Breaking news",
+                "Mike yangtzi",
+                "Jin kum",
+                "76% for the american team and 67% for the swiss team",
+                "By hand",
+                "1944",
+                "Bong ho kim",
+                "3217"
+            ]
+        }
+    },
+    {
+        "key_information_retrieval_entity_recognition_event_understanding_4472": {
+            "key": "CgvJqGxzRfE",
+            "type": "tv",
+            "video_info": {
+                "duration_minutes": 75.966,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "4472",
+            "question": "Who turns first for the contestant with curly hair, wearing glasses, and a white and blue sweatshirt?",
+            "answer": 4,
+            "question_type": [
+                "key information retrieval",
+                "entity recognition",
+                "event understanding"
+            ],
+            "time_reference": "44:43-44:43",
+            "options": [
+                "Green",
+                "Benas",
+                "The usa",
+                "Beware of danger",
+                "Mantas",
+                "1",
+                "White",
+                "Monika liu",
+                "Justina"
+            ]
+        }
+    },
+    {
+        "key_information_retrieval_2963": {
+            "key": "JPPMz8fEml0",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 34.579166666666666,
+                "fps": 23.976023976023978,
+                "resolution": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "uid": "2963",
+            "question": "Which country do the travelers choose?",
+            "answer": 2,
+            "question_type": [
+                "key information retrieval"
+            ],
+            "time_reference": "01:18-01:21",
+            "options": [
+                "Smith",
+                "118 km/h",
+                "Lebanon",
+                "Isreal",
+                "Palestine",
+                "Lucy",
+                "Rice wine",
+                "Afghanistan",
+                "97:30"
+            ]
+        }
+    },
+    {
+        "key_information_retrieval_entity_recognition_2381": {
+            "key": "xECIRjlxM3U",
+            "type": "live",
+            "video_info": {
+                "duration_minutes": 125.78216666666667,
+                "fps": 23.976023976023978,
+                "resolution": {
+                    "width": 640,
+                    "height": 266
+                }
+            },
+            "uid": "2381",
+            "question": "What words are written in the background for an event that involves a group of princesses or royal girls?",
+            "answer": 7,
+            "question_type": [
+                "key information retrieval",
+                "entity recognition"
+            ],
+            "time_reference": "106:10-106:10",
+            "options": [
+                "Writing a travel diary",
+                "The conceal",
+                "The decision",
+                "Sea, beach and trees",
+                "Red scarf",
+                "Black",
+                "Chopsticks",
+                "The contest",
+                "The competition"
+            ]
+        }
+    },
+    {
+        "event_understanding_entity_recognition_132": {
+            "key": "q01CUy_gwdU",
+            "type": "cartoon",
+            "video_info": {
+                "duration_minutes": 54.93566666666666,
+                "fps": 23.976023976023978,
+                "resolution": {
+                    "width": 960,
+                    "height": 720
+                }
+            },
+            "uid": "132",
+            "question": "Where do the man and the woman sit at where the woman is eating a pear?",
+            "answer": 0,
+            "question_type": [
+                "event understanding",
+                "entity recognition"
+            ],
+            "time_reference": "28:11-28:56",
+            "options": [
+                "A fountain",
+                "A street corner",
+                "A park bench",
+                "Dominique",
+                "Black",
+                "Hamburg making",
+                "Alexis",
+                "3",
+                "A river"
+            ]
+        }
+    },
+    {
+        "event_understanding_2093": {
+            "key": "FaV0tIaWWEg",
+            "type": "live",
+            "video_info": {
+                "duration_minutes": 31.201833333333333,
+                "fps": 29.97,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "2093",
+            "question": "What category does the video belong to?",
+            "answer": 6,
+            "question_type": [
+                "event understanding"
+            ],
+            "time_reference": "00:01-15:00",
+            "options": [
+                "66:55",
+                "The needle pricks the man's hand",
+                "At midnight",
+                "Frances mcdormand",
+                "No athlete is on track 1",
+                "News program",
+                "News conference",
+                "Sports competition",
+                "Travel vlog"
+            ]
+        }
+    },
+    {
+        "event_understanding_62": {
+            "key": "Cm73ma6Ibcs",
+            "type": "cartoon",
+            "video_info": {
+                "duration_minutes": 61.09166666666667,
+                "fps": 24.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "62",
+            "question": "What does the protagonist do when the man with the gun keeps approaching her?",
+            "answer": 2,
+            "question_type": [
+                "event understanding"
+            ],
+            "time_reference": "06:04-06:17",
+            "options": [
+                "Cloudy weather",
+                "12",
+                "The protagonist cuts off two fingers of the man with the gun with her sword",
+                "The protagonist cuts off the hand of the man with the gun with her sword",
+                "Axes and bait",
+                "Water surface",
+                "The protagonist impales the man with the gun with her word",
+                "They fail to catch the ball",
+                "The protagonist breaks the windows with her sword and flees"
+            ]
+        }
+    },
+    {
+        "event_understanding_key_information_retrieval_temporal_grounding_3539": {
+            "key": "oZEVgDXJwCc",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 98.25883333333334,
+                "fps": 30.0,
+                "resolution": {
+                    "width": 1920,
+                    "height": 1080
+                }
+            },
+            "uid": "3539",
+            "question": "What happens at 47:56 mark of the game?",
+            "answer": 7,
+            "question_type": [
+                "event understanding",
+                "key information retrieval",
+                "temporal grounding"
+            ],
+            "time_reference": "51:30-52:00",
+            "options": [
+                "1",
+                "Write",
+                "Pedro is trying to shot but fails",
+                "The bird holds his box",
+                "They wore tv-like hoods and tight green clothes",
+                "The boat is unbalanced",
+                "Pedro commits a foul",
+                "Alonso is trying to shot but fails",
+                "Alonso commits a foul"
+            ]
+        }
+    },
+    {
+        "event_understanding_4135": {
+            "key": "rp4NKWb7dXk",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 33.27133333333333,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1920,
+                    "height": 1080
+                }
+            },
+            "uid": "4135",
+            "question": "What does the last athlete on the field do after she comes off the field?",
+            "answer": 1,
+            "question_type": [
+                "event understanding"
+            ],
+            "time_reference": "31:37-32:30",
+            "options": [
+                "A vlog of watercolor art",
+                "She wears clothes",
+                "She waves to the people around her",
+                "4",
+                "A horse",
+                "Read a book",
+                "She communicates with the coach",
+                "They visit different places, including a theater, the national museum, and a restaurant",
+                "She hugs the people around her"
+            ]
+        }
+    },
+    {
+        "event_understanding_temporal_grounding_4791": {
+            "key": "AeEYQ62t8hA",
+            "type": "tv",
+            "video_info": {
+                "duration_minutes": 39.98016666666667,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "4791",
+            "question": "What does the man in the rightmost do from 22:51-23:11?",
+            "answer": 7,
+            "question_type": [
+                "event understanding",
+                "temporal grounding"
+            ],
+            "time_reference": "22:51-23:11",
+            "options": [
+                "He eats the salmon juice",
+                "5",
+                "He eats the apple juice",
+                "She goes to bed",
+                "He eats the bull penis",
+                "Platforms 6 and 7",
+                "07:34",
+                "He eats the bug trifle",
+                "I am sorry, malaysians"
+            ]
+        }
+    },
+    {
+        "event_understanding_4730": {
+            "key": "k2FIFQIYBvA",
+            "type": "tv",
+            "video_info": {
+                "duration_minutes": 32.9275,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "4730",
+            "question": "Where does the man put the drawn cards?",
+            "answer": 2,
+            "question_type": [
+                "event understanding"
+            ],
+            "time_reference": "24:00-24:03",
+            "options": [
+                "He gives it to david then",
+                "Namaqua doves",
+                "It is in his clothes then",
+                "The train",
+                "He puts it on the ground then",
+                "Mother of hostage taken by hamas fights for her son's return home",
+                "Novak djokovic",
+                "He puts it on the table then",
+                "He cried"
+            ]
+        }
+    },
+    {
+        "event_understanding_3336": {
+            "key": "O14bbpvy2x0",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 33.432833333333335,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "3336",
+            "question": "How many burgers does the vlogger make during the video?",
+            "answer": 6,
+            "question_type": [
+                "event understanding"
+            ],
+            "time_reference": "00:00-33:26",
+            "options": [
+                "12",
+                "Jensen huang introduces nvidia's new products and achievements in various fields",
+                "Their car gets stuck in the snow",
+                "24",
+                "Emohua residents restate support for wike",
+                "Open four glasses of water",
+                "19",
+                "25",
+                "Assemble skylight"
+            ]
+        }
+    },
+    {
+        "event_understanding_3221": {
+            "key": "LLSJrEgOOtw",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 61.073499999999996,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "3221",
+            "question": "What type is this vlog?",
+            "answer": 1,
+            "question_type": [
+                "event understanding"
+            ],
+            "time_reference": "00:01-05:55",
+            "options": [
+                "The bbc news",
+                "The cooking in the country",
+                "Mask",
+                "He escapes successfully",
+                "The adventure in the country",
+                "Directly towards the left side of the stage",
+                "Conch",
+                "The travel around the country",
+                "The hiking in the country"
+            ]
+        }
+    },
+    {
+        "event_understanding_797": {
+            "key": "XNtNNplAwiI",
+            "type": "cartoon",
+            "video_info": {
+                "duration_minutes": 83.48233333333334,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 638,
+                    "height": 360
+                }
+            },
+            "uid": "797",
+            "question": "How does the snake find out that the orange calabash boy had arrived?",
+            "answer": 5,
+            "question_type": [
+                "event understanding"
+            ],
+            "time_reference": "24:31-24:40",
+            "options": [
+                "Nomadland",
+                "All but one go in the opposite direction",
+                "The bloodstain",
+                "I am sorry, indonesians",
+                "The markers",
+                "The footprints",
+                "The leaves",
+                "Soybeans",
+                "She does some activity"
+            ]
+        }
+    },
+    {
+        "summarization_3999": {
+            "key": "tKIFQI9cH2c",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 73.11416666666668,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "3999",
+            "question": "What happens between the scores of 4-5 and 4-6 in the game?",
+            "answer": 2,
+            "question_type": [
+                "summarization"
+            ],
+            "time_reference": "32:56-35:16",
+            "options": [
+                "This video narrates the entire process of the 2016 men's volleyball final, in which the brazilian team defeated italy 3-2 to win the championship",
+                "Serena pushes venus into the corner and drills the winner into the open court. but venus gets a cross-court backhand winner, and then forces serena to block a return of serve into the net",
+                "Two unforced errors from venus to start the 10th game. serena closes in on the set. and another ace brings three set points. and serena hits an ace",
+                "Another strong serve, and serena hits it long. venus holds",
+                "There are lots of short clips. the basic information about the montagu beach fish market",
+                "They hunt with two guns. they shoot several birds and a moose",
+                "The vlogger makes variety of burgers by the customer's order, he is also responsible for putting french fries on the side",
+                "Host's newscast, several pictures and videos of the earthquake, report from the journalist on the spot, and a interview to the government",
+                "A better serve puts venus under pressure, but she gets the return back and serena flays one well wide for 0-30. an error from venus brings it back to 15-30, and then an ace out wide levels it at 30-30"
+            ]
+        }
+    },
+    {
+        "summarization_key_information_retrieval_4506": {
+            "key": "EwskdNETNx8",
+            "type": "tv",
+            "video_info": {
+                "duration_minutes": 60.00033333333333,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "4506",
+            "question": "In what order do the judges turn around when Adele sings?",
+            "answer": 7,
+            "question_type": [
+                "summarization",
+                "key information retrieval"
+            ],
+            "time_reference": "00:00-60:00",
+            "options": [
+                "40",
+                "Peter bol",
+                "Three judges turn around. the order is adam, jenniffer, kelly",
+                "In the afternoon",
+                "Williams",
+                "All of the judges turn around. the order is adam, kelly, jenniffer, blake",
+                "Black",
+                "All of the judges turn around. the order is adam, blake, jenniffer, kelly",
+                "Three judges turn around. the order is adam, kelly, jenniffer"
+            ]
+        }
+    },
+    {
+        "summarization_temporal_grounding_1184": {
+            "key": "KktLi3UifPY",
+            "type": "documentary",
+            "video_info": {
+                "duration_minutes": 100.9015,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "1184",
+            "question": "What is the main content introduced in the video segment from 68:09-71:16?",
+            "answer": 2,
+            "question_type": [
+                "summarization",
+                "temporal grounding"
+            ],
+            "time_reference": "68:09-71:16",
+            "options": [
+                "O'neal assists james for dunk",
+                "Yellow",
+                "The grading process of wagyu beef",
+                "The storage of wagyu beef in a factory",
+                "Because she wants to drink water",
+                "The process of raising wagyu beef",
+                "The transportation of wagyu beef to restaurants",
+                "Chicken",
+                "05:20"
+            ]
+        }
+    },
+    {
+        "summarization_temporal_grounding_115": {
+            "key": "q01CUy_gwdU",
+            "type": "cartoon",
+            "video_info": {
+                "duration_minutes": 54.93566666666666,
+                "fps": 23.976023976023978,
+                "resolution": {
+                    "width": 960,
+                    "height": 720
+                }
+            },
+            "uid": "115",
+            "question": "What happens from 01:58-02:46?",
+            "answer": 0,
+            "question_type": [
+                "summarization",
+                "temporal grounding"
+            ],
+            "time_reference": "01:58-02:46",
+            "options": [
+                "A man runs, stumbles against a woman, and knocks over all her stuff",
+                "The u.s. team take the lead to score one point, then the swiss team score two points in a row, and finally the u.s. team score three points in a row to win the game",
+                "A man runs, stumbles against a woman, and she cries",
+                "She speaks softly and gently",
+                "After they get off the high-speed train, they go pass the ticket gate, exiting the train station",
+                "A woman runs, stumbles against a man, and knocks over all his stuff",
+                "Following the cameraperson",
+                "First, the news was introduced by the host in the studio with a video of the news in the background and then the video was enlarged with tittle at the bottom. then the scene played the video of the news with people interviewed in the studio",
+                "A woman runs, stumbles against a man, and he cries"
+            ]
+        }
+    },
+    {
+        "summarization_61": {
+            "key": "Cm73ma6Ibcs",
+            "type": "cartoon",
+            "video_info": {
+                "duration_minutes": 61.09166666666667,
+                "fps": 24.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "61",
+            "question": "After the man with the gun threatens the cook, what does the protagonist do?",
+            "answer": 4,
+            "question_type": [
+                "summarization"
+            ],
+            "time_reference": "04:19-08:41",
+            "options": [
+                "The protagonist pushes the table aside and stands up, confronting the man. after a series of quarrels, she injuries  the man and leaves the restaurant. the chef follows her",
+                "The protagonist pushes the table aside and stands up, taking out her gun and pointing at the man. after a series of quarrels, she kills the man and leaves the restaurant. the chef follows her",
+                "The status is not so good. lee chong wei is always far ahead",
+                "The vlogger introduces  restaurant, indoor swimming pool and beach swimming pool, and gets practical experiences",
+                "The protagonist pushes the table aside and stands up, confronting the man. after a series of quarrels, she kills the man and leaves the restaurant. the chef follows her",
+                "They lift a coconut and smash it on the ground. then they drink coconut juice and eat coconut meat",
+                "The protagonist pushes the table aside and stands up, taking out her gun and pointing at the man. after a series of quarrels, she kills the man and leaves the restaurant",
+                "They hunt with two guns. they shoot several birds and a moose",
+                "Memories kids have about pablo, who did something nice in the past"
+            ]
+        }
+    },
+    {
+        "summarization_3082": {
+            "key": "wgBlACG927Y",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 38.85466666666667,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "3082",
+            "question": "How does the vloggers leave the platform and go upstairs?",
+            "answer": 0,
+            "question_type": [
+                "summarization"
+            ],
+            "time_reference": "11:03-11:40",
+            "options": [
+                "After they get off the high-speed train, they go upstairs and go pass the ticket gate, exiting the train station",
+                "Do the laundry, wash her face, brush her teeth, comb her hair, and apply makeup",
+                "After they get off the high-speed train, they take the escalator and go pass the ticket gate, exiting the train station",
+                "The vlogger makes variety of burgers by the customer's order, he is also responsible for putting french fries on the side",
+                "He pointed at the simon at first, then took out a piece of paper with three blah written on it and burned it with a match. then he walked up to the four judges, took simon's hand and invited him to come on stage and sit on a chair. then he directly covered simon's head with a wooden box, and set the wooden box on fire. finally, it was discovered that simon was fine",
+                "After they get off the high-speed train, they take the escalator, go upstairs and go pass the ticket gate, exiting the train station",
+                "After they get off the high-speed train, they go pass the ticket gate, exiting the train station",
+                "This video narrates the entire process of the 2016 men's volleyball final, in which the brazilian team defeated china 3-0 to win the championship",
+                "Host's newscast, several pictures and videos of the earthquake, report from the journalist on the spot, a chart that counts casualties, and a interview to citizens,"
+            ]
+        }
+    },
+    {
+        "summarization_5186": {
+            "key": "20lTg3yUrO4",
+            "type": "tv",
+            "video_info": {
+                "duration_minutes": 61.25033333333333,
+                "fps": 30.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "5186",
+            "question": "How was news of the 'Dosumu fire disaster' be reported in the video?",
+            "answer": 1,
+            "question_type": [
+                "summarization"
+            ],
+            "time_reference": "00:00-60:01",
+            "options": [
+                "They walk for a while and then sit down at the patio of a coffee shop. she eats, drinks, and smokes while the man stares at her. she goes to a beach",
+                "First, the news was introduced by the host in the studio with a picture of the news in the background and then the picture was enlarged with tittle at the bottom. then the scene played the video of the news with people interviewed in the video",
+                "First, the news was introduced by the host in the studio with a picture of the news in the background and then the picture was enlarged with tittle at the bottom. then the scene played the video of the news with people interviewed in the studio",
+                "The woman goes to meet the man barefoot, but she is stopped by other people",
+                "She gets up, does some housework and cooks her breakfast",
+                "In the second half, liverpool displayed a more aggressive attacking stance, particularly showcasing greater organization and creativity in midfield. as the game progressed towards its final stages, liverpool's offensive pressure gradually intensified, resulting in threats near the penalty area. one particular instance saw a free kick from liverpool leading to an own goal by an arsenal player in the penalty area. this goal laid the foundation for liverpool's victory. later in the game's dying moments, liverpool once again scored another goal, resulting in a 2-0 victory.",
+                "First, the news was introduced by the host in the studio with a video of the news in the background and then the video was enlarged with tittle at the bottom. then the scene played the video of the news with people interviewed in the video",
+                "First, the news was introduced by the host in the studio with a video of the news in the background and then the video was enlarged with tittle at the bottom. then the scene played the video of the news with people interviewed in the studio",
+                "He walks in the forest, visits the zoo, visits a local market and talks to a boy in green shirt in the market"
+            ]
+        }
+    },
+    {
+        "summarization_4608": {
+            "key": "9tBsMSDoDqk",
+            "type": "tv",
+            "video_info": {
+                "duration_minutes": 33.86666666666667,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "4608",
+            "question": "What does Mandy do after she stands in front of the judges' table?",
+            "answer": 0,
+            "question_type": [
+                "summarization"
+            ],
+            "time_reference": "14:51-18:41",
+            "options": [
+                "She had four judges draw cards in advance and then randomly find pages and text in a book, accurately reciting all the words on stage",
+                "She had four judges draw cards and then accurately found text in the book that matched the cards",
+                "The two people cook and eat, talk with each other",
+                "The swiss team score 4 points in a row to win this game without losing one point",
+                "In the fourth quarter, paul hits a layup at the beginning, anderson scores inside, and barlow scores a three-pointer. australia does not give up, 87-75. deron hits another three-pointer, and love adds the icing on the cake, 92-75, denying his opponent any hope of a comeback. mills responds with a three-pointer, and love hits the inside to make a free throw. then comes the \"kobe moment.\" he makes 3 of 3 three-pointers, 105-80. with less than 5 minutes left in the game, love makes a fast break dunk, 107-80. the u.s. team completely defeats its opponent. in the end, the u.s. team wins a 119-86 victory",
+                "She had four judges find pages and text in a book and accurately recited all the content of the corresponding page",
+                "The storage of wagyu beef in a factory",
+                "They eat at different places, including a restaurant, a local shop, and a coffee shop",
+                "She had four judges draw cards in advance and then magically produced the same cards on stage"
+            ]
+        }
+    },
+    {
+        "summarization_1680": {
+            "key": "t-RtDI2RWQs",
+            "type": "live",
+            "video_info": {
+                "duration_minutes": 86.49783333333333,
+                "fps": 29.97,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "1680",
+            "question": "What happens after the presentation of the award for Best Supporting Actress?",
+            "answer": 5,
+            "question_type": [
+                "summarization"
+            ],
+            "time_reference": "23:30-25:03",
+            "options": [
+                "The photographer has recorded the magnificent marine landscape. while seated in a pneumatic boat and diving, he captured scenes of pods of sperm whales active in the area",
+                "All of the judges turn around. the order is adam, kelly, jenniffer, blake",
+                "The swiss team scores 4 points first and then the american team ties to deuce, and the swiss team finally win the game",
+                "The vampire breaks the girl's cell phone but has no money to compensate, so he can only work in labor to earn money with the girl. in the end, they become good friends",
+                "There is a short clip. then two presenters come onstage and present the award for best animated feature film. the winning film is the boy and the heron. the award winner comes onstage to give a speech",
+                "There is a short clip. then two presenters come onstage and present the award for best animated feature film. the winning film is the boy and the heron",
+                "Two presenters come onstage and present the award for best animated feature film. the winning film is the boy and the heron",
+                "Two presenters come onstage and present the award for best animated feature film. the winning film is the boy and the heron. the award winner comes onstage to give a speech",
+                "The band starts playing, with a close-up focusing on the bassist and the audience"
+            ]
+        }
+    },
+    {
+        "summarization_temporal_grounding_3989": {
+            "key": "tKIFQI9cH2c",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 73.11416666666668,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "3989",
+            "question": "___ is best fitted commentary for the main events that take place between 19:30-20:08.",
+            "answer": 5,
+            "question_type": [
+                "summarization",
+                "temporal grounding"
+            ],
+            "time_reference": "19:48-20:18",
+            "options": [
+                "Sonny tastes bohemian lobster",
+                "This ball is staying hit out there - the combined power of venus and serena is quite awesome. serena forces an error from her opponent for 15-0, then follows it with an ace for 30-0",
+                "Male",
+                "Venus unloads on a forehand return to force an error from serena, and then drills a backhand right to the line for 30-30. but a netted return makes it 40-30 to serena",
+                "Serena double faults for deuce, and now another double to give venus a break point again! now an ace to save her serve",
+                "That is a poor second serve from serena, and venus forces another error and another break point. and a third double! that's a fourth straight break of serve, and it's 2-2",
+                "The two teams take turns to score to tiebreak, and the swiss team finally win the game",
+                "Picks up the luggage, buys a simcard, checks the currency",
+                "First, tacara's sister brittney was interviewed on the spot, and then jayson and raymond were interviewed via video in turn. then jayson and raymond were invited to the stage. and then a paper result was handed to the stage stating that jayson was the father of the child. in the end, tacara ran away from the scene"
+            ]
+        }
+    },
+    {
+        "entity_recognition_2164": {
+            "key": "rk24OUu_kJQ",
+            "type": "live",
+            "video_info": {
+                "duration_minutes": 89.855,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "2164",
+            "question": "How does the audience near the stage at the first floor watch the performance?",
+            "answer": 0,
+            "question_type": [
+                "entity recognition"
+            ],
+            "time_reference": "07:35-08:00",
+            "options": [
+                "They stands and watch",
+                "They try to step onto the stage and watch",
+                "There is no audience near the stage",
+                "5",
+                "1",
+                "The blocked judge lies down",
+                "Sneaker",
+                "4",
+                "They sit on chairs and watch"
+            ]
+        }
+    },
+    {
+        "entity_recognition_reasoning_3420": {
+            "key": "1FsiZgGZU70",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 37.57449999999999,
+                "fps": 30.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "3420",
+            "question": "What color is vlogger's car?",
+            "answer": 4,
+            "question_type": [
+                "entity recognition",
+                "reasoning"
+            ],
+            "time_reference": "08:04-08:04",
+            "options": [
+                "He is trying to get the most excitement",
+                "Blue",
+                "She shows indifference",
+                "1",
+                "Black",
+                "White",
+                "To capture the reactions of the audience and friends on the sidelines",
+                "Green",
+                "Track and field"
+            ]
+        }
+    },
+    {
+        "entity_recognition_reasoning_1692": {
+            "key": "t-RtDI2RWQs",
+            "type": "live",
+            "video_info": {
+                "duration_minutes": 86.49783333333333,
+                "fps": 29.97,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "1692",
+            "question": "Why does Gosling wear pink suit when performing?",
+            "answer": 2,
+            "question_type": [
+                "entity recognition",
+                "reasoning"
+            ],
+            "time_reference": "49:12-52:32",
+            "options": [
+                "They walk side by side",
+                "Pink grabs attention",
+                "Pink is theme color",
+                "3",
+                "White",
+                "Black",
+                "Pink is his favorite color",
+                "Pink brings good luck",
+                "8"
+            ]
+        }
+    },
+    {
+        "entity_recognition_2257": {
+            "key": "16Z-XQh9jhk",
+            "type": "live",
+            "video_info": {
+                "duration_minutes": 83.72966666666666,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "2257",
+            "question": "What color guitar is the female singer holding?",
+            "answer": 6,
+            "question_type": [
+                "entity recognition"
+            ],
+            "time_reference": "47:48-48:35",
+            "options": [
+                "Brown",
+                "Bencic and federer",
+                "Malaysia and indonesia",
+                "2",
+                "Black",
+                "Hand",
+                "Write",
+                "Green dragon and light blue dragon",
+                "Green"
+            ]
+        }
+    },
+    {
+        "entity_recognition_temporal_grounding_4757": {
+            "key": "sk00epALZps",
+            "type": "tv",
+            "video_info": {
+                "duration_minutes": 40.836999999999996,
+                "fps": 29.97,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "4757",
+            "question": "At 23:50, what color tie is the host wearing?",
+            "answer": 3,
+            "question_type": [
+                "entity recognition",
+                "temporal grounding"
+            ],
+            "time_reference": "23:50-23:50",
+            "options": [
+                "Lucas",
+                "Red",
+                "Justina lies down",
+                "Purple",
+                "On the right side of the second floor, from the perspective of the camera view",
+                "Last row",
+                "Black",
+                "White vest",
+                "White"
+            ]
+        }
+    },
+    {
+        "entity_recognition_4722": {
+            "key": "k2FIFQIYBvA",
+            "type": "tv",
+            "video_info": {
+                "duration_minutes": 32.9275,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "4722",
+            "question": "What does David spit out from the mouth that is stitches with a needle?",
+            "answer": 4,
+            "question_type": [
+                "entity recognition"
+            ],
+            "time_reference": "19:32-19:50",
+            "options": [
+                "Nothing",
+                "On the left side of the second floor, from the perspective of the camera view",
+                "Necklace",
+                "4",
+                "Spade j",
+                "A bird",
+                "Red joker",
+                "Black joker",
+                "Hearts 8"
+            ]
+        }
+    },
+    {
+        "entity_recognition_1917": {
+            "key": "lDlA7cfNk8A",
+            "type": "live",
+            "video_info": {
+                "duration_minutes": 74.99583333333334,
+                "fps": 30.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "1917",
+            "question": "How many hostesses are there?",
+            "answer": 8,
+            "question_type": [
+                "entity recognition"
+            ],
+            "time_reference": "00:00-70:00",
+            "options": [
+                "5",
+                "1",
+                "White",
+                "They are tall",
+                "Three nobel laureates in chemistry",
+                "Coconut",
+                "Lucy",
+                "2",
+                "3"
+            ]
+        }
+    },
+    {
+        "entity_recognition_2243": {
+            "key": "16Z-XQh9jhk",
+            "type": "live",
+            "video_info": {
+                "duration_minutes": 83.72966666666666,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "2243",
+            "question": "What was the first instrument to appear in the video?",
+            "answer": 4,
+            "question_type": [
+                "entity recognition"
+            ],
+            "time_reference": "00:20-00:25",
+            "options": [
+                "Hangover stew",
+                "2",
+                "Bass",
+                "White",
+                "Drum kit",
+                "9",
+                "Electric piano",
+                "3",
+                "Guitar"
+            ]
+        }
+    },
+    {
+        "entity_recognition_1630": {
+            "key": "vaL_vSdZKZo",
+            "type": "documentary",
+            "video_info": {
+                "duration_minutes": 57.88433333333333,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "uid": "1630",
+            "question": "What did the man interviewed after Sergey Sarancha hold in his hand?",
+            "answer": 1,
+            "question_type": [
+                "entity recognition"
+            ],
+            "time_reference": "52:40-52:31",
+            "options": [
+                "She talks  with the man",
+                "A pair of glasses",
+                "A pair of gloves",
+                "A cup of coffee",
+                "A glass of milk",
+                "White",
+                "A yak",
+                "12",
+                "Sparkling water"
+            ]
+        }
+    },
+    {
+        "entity_recognition_temporal_grounding_4054": {
+            "key": "cXDT44zT8JY",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 45.63066666666667,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "4054",
+            "question": "Between 09:45-15:00, what demography predominates among the spectators on the sidelines?",
+            "answer": 5,
+            "question_type": [
+                "entity recognition",
+                "temporal grounding"
+            ],
+            "time_reference": "09:45-14:37",
+            "options": [
+                "Child",
+                "Take the train from narita airport t2 to shibuya station",
+                "Black",
+                "Matt, eric, and mikhail",
+                "Female",
+                "Male",
+                "3",
+                "Just for fun",
+                "Old people"
+            ]
+        }
+    },
+    {
+        "reasoning_3642": {
+            "key": "rSE2YPcv89U",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 100.33999999999999,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1920,
+                    "height": 1080
+                }
+            },
+            "uid": 3642,
+            "question": "Why did Player number 4 in white push down Player number 17 in purple during the match?",
+            "answer": 2,
+            "question_type": [
+                "reasoning"
+            ],
+            "time_reference": "34:04-34:24",
+            "options": [
+                "It was an accidental collision as both players were competing for the ball.",
+                "Hoodie and shorts",
+                "Player number 4 in white was making a defensive play to prevent player number 17 in purple from successfully dribbling past him.",
+                "Disinterested",
+                "They think their life are meaningless",
+                "Playground",
+                "Player number 4 in white was attempting to maneuver past player number 17 in purple during an offensive play.",
+                "Reminiscing about kobe's training days",
+                "Player number 4 in white was retaliating for an earlier foul by player number 17 in purple."
+            ]
+        }
+    },
+    {
+        "reasoning_2884": {
+            "key": "_T2Avd3tFHc",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 30.746666666666666,
+                "fps": 23.976023976023978,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "2884",
+            "question": "Compared to most other amusement parks, the one the vlogger team visits in the afternoon on the first day is ___.",
+            "answer": 1,
+            "question_type": [
+                "reasoning"
+            ],
+            "time_reference": "09:45-10:36",
+            "options": [
+                "Staffan",
+                "Not well maintained",
+                "Smaller",
+                "More modern",
+                "Transported to the island from an inflatable rubber boat",
+                "Venus looks very tired and has no more energy here",
+                "Not as well functioning",
+                "She is really misunderstood and is angry about it",
+                "This scene has neither simulation nor reality"
+            ]
+        }
+    },
+    {
+        "reasoning_843": {
+            "key": "TiQBTesZUJQ",
+            "type": "documentary",
+            "video_info": {
+                "duration_minutes": 52.46816666666667,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "843",
+            "question": "When do animals move out?",
+            "answer": 8,
+            "question_type": [
+                "reasoning"
+            ],
+            "time_reference": "08:45-09:00",
+            "options": [
+                "Dark green",
+                "Because someone faints",
+                "Noon",
+                "Early morning",
+                "She wants to replace it with some new flowers",
+                "Sephora",
+                "Morning",
+                "Friendship",
+                "Night"
+            ]
+        }
+    },
+    {
+        "reasoning_temporal_grounding_1354": {
+            "key": "uW9mcG0rdLY",
+            "type": "documentary",
+            "video_info": {
+                "duration_minutes": 52.55133333333333,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "uid": "1354",
+            "question": "Why is the penguin lying down at 22:14?",
+            "answer": 8,
+            "question_type": [
+                "reasoning",
+                "temporal grounding"
+            ],
+            "time_reference": "21:56-22:19",
+            "options": [
+                "African goshawks fly in the sky",
+                "Smiling",
+                "It just finished swimming and comes ashore",
+                "It is getting ready to enter the sea",
+                "Nervous",
+                "It is preparing to catch fish",
+                "The man visits the places that he and the woman have been to before",
+                "Forest hostel",
+                "It is knocked over by a wave"
+            ]
+        }
+    },
+    {
+        "reasoning_1735": {
+            "key": "-WnyRMZqV1U",
+            "type": "live",
+            "video_info": {
+                "duration_minutes": 93.60433333333334,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "uid": "1735",
+            "question": "Is the scene where individuals are seen taking photos with the Pope part fictional or real? Which sentence best describes the place this scene happens?",
+            "answer": 2,
+            "question_type": [
+                "reasoning"
+            ],
+            "time_reference": "02:23-02:23",
+            "options": [
+                "Fictional, from a documentary",
+                "More built",
+                "Fictional, from a movie",
+                "Real, from news report",
+                "Real, from live",
+                "Spain",
+                "He is trying to get the most excitement",
+                "To buy food containers",
+                "58"
+            ]
+        }
+    },
+    {
+        "reasoning_4055": {
+            "key": "cXDT44zT8JY",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 45.63066666666667,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "4055",
+            "question": "How old is Royce Gracie now?",
+            "answer": 6,
+            "question_type": [
+                "reasoning"
+            ],
+            "time_reference": "03:20-03:29",
+            "options": [
+                "Because foreigners are not allowed to enter",
+                "21",
+                "Sad",
+                "Tokyo 2020 olympics",
+                "31",
+                "Brittany",
+                "29",
+                "The blue dotted line represents where reach the wind and the red dotted line represents where will not hit by wind",
+                "58"
+            ]
+        }
+    },
+    {
+        "reasoning_temporal_grounding_542": {
+            "key": "81SbCR6p3Z0",
+            "type": "cartoon",
+            "video_info": {
+                "duration_minutes": 68.687,
+                "fps": 23.976023976023978,
+                "resolution": {
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "uid": "542",
+            "question": "Why does the gardener suddenly laugh from 14:15-14:18?",
+            "answer": 0,
+            "question_type": [
+                "reasoning",
+                "temporal grounding"
+            ],
+            "time_reference": "14:15-14:18",
+            "options": [
+                "Because the little girl falls, he is mocking",
+                "Because he feels happy working",
+                "He have no money to compensate",
+                "Because he is very happy to see the flowers blooming",
+                "Thomas",
+                "Because he also likes skipping rope",
+                "2",
+                "Red",
+                "White"
+            ]
+        }
+    },
+    {
+        "reasoning_3177": {
+            "key": "uusf1qG_uZ4",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 133.09066666666666,
+                "fps": 30.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "3177",
+            "question": "Why does Janice act so nice?",
+            "answer": 4,
+            "question_type": [
+                "reasoning"
+            ],
+            "time_reference": "33:04-33:32",
+            "options": [
+                "Because she treats other kids as good friends",
+                "Because she is happy to see the visitors",
+                "No one scored",
+                "Because she is a nice person",
+                "Because her mom is the teacher",
+                "58",
+                "The whole process takes a long time, from sunset to late night",
+                "She wants to replace it with some new flowers",
+                "Aaron plays the piano and buddy sings"
+            ]
+        }
+    },
+    {
+        "reasoning_entity_recognition_event_understanding_3959": {
+            "key": "Xjf5N9S3jAA",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 47.4275,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "3959",
+            "question": "What can we know about Djokovbic and Tsitsipas?",
+            "answer": 1,
+            "question_type": [
+                "reasoning",
+                "entity recognition",
+                "event understanding"
+            ],
+            "time_reference": "00:00-47:25",
+            "options": [
+                "2",
+                "They were champion players in different competitions",
+                "No information",
+                "Their match was an exhibition match with no winner or loser",
+                "Thiago",
+                "Because the girl with long black hair throws an explosive charge on his boat",
+                "In the middle of the stage",
+                "They have no atp ranking",
+                "They had a peak match together"
+            ]
+        }
+    },
+    {
+        "reasoning_temporal_grounding_1179": {
+            "key": "KktLi3UifPY",
+            "type": "documentary",
+            "video_info": {
+                "duration_minutes": 100.9015,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "1179",
+            "question": "How does the female host express herself at 40:20?",
+            "answer": 0,
+            "question_type": [
+                "reasoning",
+                "temporal grounding"
+            ],
+            "time_reference": "40:20-40:20",
+            "options": [
+                "She frowns and appears puzzled",
+                "She is angry and feels disgusted",
+                "She is very happy and can't wait to taste the dish",
+                "She is very sad",
+                "Legs together",
+                "Two presenters chat, and after a short clip, they announce the winner of the best adapted screenplay",
+                "She is holding hands with the girl",
+                "1 million",
+                "Because the little girl falls, he is mocking"
+            ]
+        }
+    },
+    {
+        "temporal_grounding_event_understanding_989": {
+            "key": "GcRKREorGSc",
+            "type": "documentary",
+            "video_info": {
+                "duration_minutes": 78.72800000000001,
+                "fps": 24.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "989",
+            "question": "What happens from 28:37-29:10?",
+            "answer": 4,
+            "question_type": [
+                "temporal grounding",
+                "event understanding"
+            ],
+            "time_reference": "28:37-29:10",
+            "options": [
+                "Tv show",
+                "Ogbonnaya onu dies at 72",
+                "Diving",
+                "African fish eagles fly in the sky",
+                "African goshawks fly in the sky",
+                "Namaqua doves fly in the sky",
+                "White-bellied sea eagles fly in the sky",
+                "Thumbs up to the vlogger",
+                "Have meal in airport pizza"
+            ]
+        }
+    },
+    {
+        "temporal_grounding_key_information_retrieval_3638": {
+            "key": "rSE2YPcv89U",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 100.33999999999999,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1920,
+                    "height": 1080
+                }
+            },
+            "uid": "3638",
+            "question": "Which team is controlling the ball at 27:18 in the video?",
+            "answer": 2,
+            "question_type": [
+                "temporal grounding",
+                "key information retrieval"
+            ],
+            "time_reference": "27:18-27:18",
+            "options": [
+                "Real madrid",
+                "Manchester city",
+                "Arsenal",
+                "Liverpool",
+                "Kroos substitutes trochowski",
+                "Adrian",
+                "Blue",
+                "Talk with me",
+                "97:30"
+            ]
+        }
+    },
+    {
+        "temporal_grounding_entity_recognition_2898": {
+            "key": "RCAqKnvu_P0",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 44.32416666666666,
+                "fps": 30.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "2898",
+            "question": "What appears from 00:23-00:24?",
+            "answer": 5,
+            "question_type": [
+                "temporal grounding",
+                "entity recognition"
+            ],
+            "time_reference": "00:23-00:24",
+            "options": [
+                "Mount fuji",
+                "Ginza",
+                "Green",
+                "Dimitrij ovtcharov, fan zhendong, ma long",
+                "Peppa pig pepper",
+                "Sakura",
+                "A circle of white chevron patterns",
+                "Tokyo tower",
+                "Mohawk"
+            ]
+        }
+    },
+    {
+        "temporal_grounding_entity_recognition_3378": {
+            "key": "3_upA09AntU",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 41.654333333333334,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "3378",
+            "question": "How many plates does the chef place on the table from 04:40-04:46?",
+            "answer": 6,
+            "question_type": [
+                "temporal grounding",
+                "entity recognition"
+            ],
+            "time_reference": "04:44-05:00",
+            "options": [
+                "Paul",
+                "Anatomy of a fall",
+                "1",
+                "2",
+                "Dimitrij ovtcharov, fan zhendong, ma long",
+                "Starbrooks coffee",
+                "3",
+                "4",
+                "Get the ball"
+            ]
+        }
+    },
+    {
+        "temporal_grounding_entity_recognition_3796": {
+            "key": "T1yhBv1ytzw",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 100.47066666666666,
+                "fps": 25.0,
+                "resolution": {
+                    "width": 1920,
+                    "height": 1080
+                }
+            },
+            "uid": "3796",
+            "question": "Who falls in the restricted area at 65:42?",
+            "answer": 7,
+            "question_type": [
+                "temporal grounding",
+                "entity recognition"
+            ],
+            "time_reference": "65:42-66:09",
+            "options": [
+                "Keita",
+                "Blue",
+                "Thiago",
+                "Riding a bicycle",
+                "2",
+                "Green",
+                "Salah",
+                "Konaté",
+                "Mahershala ali"
+            ]
+        }
+    },
+    {
+        "temporal_grounding_event_understanding_1689": {
+            "key": "t-RtDI2RWQs",
+            "type": "live",
+            "video_info": {
+                "duration_minutes": 86.49783333333333,
+                "fps": 29.97,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "1689",
+            "question": "What happens from 41:09-52:20?",
+            "answer": 0,
+            "question_type": [
+                "temporal grounding",
+                "event understanding"
+            ],
+            "time_reference": "41:09-48:46",
+            "options": [
+                "The announcement of the best supporting actor and the performance from ken",
+                "Fights for her son's return home",
+                "The announcement of the best leading actress and the performance from ken",
+                "The announcement of the best leading actor and the performance from billie eilish",
+                "She kisses the man",
+                "Real madrid",
+                "The announcement of the best supporting actress and the performance from billie eilish",
+                "Sierra fights with her former roommate",
+                "Subway station"
+            ]
+        }
+    },
+    {
+        "temporal_grounding_key_information_retrieval_2901": {
+            "key": "RCAqKnvu_P0",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 44.32416666666666,
+                "fps": 30.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "2901",
+            "question": "What happens from 01:54-02:25?",
+            "answer": 0,
+            "question_type": [
+                "temporal grounding",
+                "key information retrieval"
+            ],
+            "time_reference": "01:54-02:25",
+            "options": [
+                "Take the train from narita airport t3 to ashiage station",
+                "White",
+                "Beach by sea",
+                "335",
+                "Take the train from narita airport t2 to akihabara station",
+                "Take the train from narita airport t2 to shibuya station",
+                "3718",
+                "Ferguson",
+                "Take the train from narita airport t4 to shibuya station"
+            ]
+        }
+    },
+    {
+        "temporal_grounding_entity_recognition_3524": {
+            "key": "oZEVgDXJwCc",
+            "type": "sport",
+            "video_info": {
+                "duration_minutes": 98.25883333333334,
+                "fps": 30.0,
+                "resolution": {
+                    "width": 1920,
+                    "height": 1080
+                }
+            },
+            "uid": "3524",
+            "question": "In 05:06 video time, who gets the ball from Pedro?",
+            "answer": 0,
+            "question_type": [
+                "temporal grounding",
+                "entity recognition"
+            ],
+            "time_reference": "05:00-05:12",
+            "options": [
+                "Khedira",
+                "Liquor",
+                "An earring",
+                "Puyol",
+                "A word",
+                "Clothing store",
+                "Adrian stoica and hurricane's show time",
+                "Friedrich",
+                "Iniesta"
+            ]
+        }
+    },
+    {
+        "temporal_grounding_reasoning_42": {
+            "key": "Za2Z_JRxCuk",
+            "type": "cartoon",
+            "video_info": {
+                "duration_minutes": 34.07366666666667,
+                "fps": 24.0,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "42",
+            "question": "What factor does not make the fight from 13:08-16:06 difficult?",
+            "answer": 1,
+            "question_type": [
+                "temporal grounding",
+                "reasoning"
+            ],
+            "time_reference": "13:08-16:06",
+            "options": [
+                "The couple gathers the fern and puts it into the iron bucket. the dog watches them",
+                "The traps below the ground",
+                "The injury on protagonist's leg",
+                "It is hit back by the opponent",
+                "Happy",
+                "The number of enemies",
+                "Best men's football club",
+                "It lands out of bounds",
+                "The protagonist loses her weapon"
+            ]
+        }
+    },
+    {
+        "temporal_grounding_event_understanding_2776": {
+            "key": "evYm0cELO3I",
+            "type": "selfmedia",
+            "video_info": {
+                "duration_minutes": 90.30666666666666,
+                "fps": 29.97002997002997,
+                "resolution": {
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "uid": "2776",
+            "question": "What happens from 24:46-25:12?",
+            "answer": 3,
+            "question_type": [
+                "temporal grounding",
+                "event understanding"
+            ],
+            "time_reference": "24:46-25:12",
+            "options": [
+                "The chef cooks lobster quesadilla",
+                "Some nuts",
+                "5",
+                "Sonny tastes kung fruit salad",
+                "Signaling the start of the match",
+                "Sonny tastes  lobster quesadilla",
+                "22",
+                "The prince and the mermaid kiss",
+                "Sonny tastes bohemian lobster"
+            ]
+        }
+    }
+]

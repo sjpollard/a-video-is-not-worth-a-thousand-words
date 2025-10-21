@@ -1,0 +1,5 @@
+# Modified by Sam Pollard
+# from CoTrain.modules.cotrain_dino_module_v2 import CoTrainTransformerSS
+from internvideo.InternVideo1.Downstream.multi_modalities_downstream.CoTrain.modules.cotrain_module import CoTrainTransformerSS
+# from CoTrain.modules.cotrain_dino_module_v3 import CoTrainTransformerSS
+from internvideo.InternVideo1.Downstream.multi_modalities_downstream.CoTrain.modules.clip_module import CLIP

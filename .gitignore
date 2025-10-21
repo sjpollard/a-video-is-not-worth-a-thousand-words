@@ -1,0 +1,8 @@
+__pycache__
+*_features_*
+test_additional_paths.csv
+
+*.out
+.vscode
+
+all_frames

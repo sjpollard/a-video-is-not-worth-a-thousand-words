@@ -1,0 +1,2248 @@
+[
+    {
+        "object_motion_object_movement_counting_94": {
+            "inputs": {
+                "video 1": {
+                    "id": "P04-20240414-162750"
+                },
+                "image 1": {
+                    "id": "P04-20240414-162750",
+                    "time": "00:00:12.599"
+                }
+            },
+            "question": "How many times did the object <BBOX 743.713 878.496 873.682 998.838> seen at <TIME 00:00:12.599 video 1> change locations in the video?",
+            "choices": [
+                "1",
+                "7",
+                "8",
+                "11",
+                "0",
+                "13",
+                "9",
+                "6",
+                "14",
+                "10",
+                "12",
+                "2",
+                "3",
+                "5",
+                "4"
+            ],
+            "correct_idx": 0
+        }
+    },
+    {
+        "object_motion_object_movement_counting_102": {
+            "inputs": {
+                "video 1": {
+                    "id": "P02-20240211-111822"
+                },
+                "image 1": {
+                    "id": "P02-20240211-111822",
+                    "time": "00:37:45.633"
+                }
+            },
+            "question": "How many times did the object <BBOX 820.732 688.356 1018.092 823.138> seen at <TIME 00:37:45.633 video 1> change locations in the video?",
+            "choices": [
+                "6",
+                "2",
+                "0",
+                "3",
+                "14",
+                "12",
+                "1",
+                "13",
+                "7",
+                "10",
+                "5",
+                "9",
+                "8",
+                "4",
+                "11"
+            ],
+            "correct_idx": 3
+        }
+    },
+    {
+        "gaze_interaction_anticipation_34": {
+            "inputs": {
+                "video 1": {
+                    "id": "P05-20240427-143353",
+                    "start_time": "00:13:01.500",
+                    "end_time": "00:13:11.500"
+                }
+            },
+            "question": "What object will the person interact with next, ignoring ongoing interactions?",
+            "choices": [
+                "The jumper.",
+                "The plastic microwave cover.",
+                "The roll of puff pastry.",
+                "The soap tray.",
+                "The pot.",
+                "The knife.",
+                "The garlic.",
+                "The tin of tomatoes.",
+                "The measuring beaker.",
+                "The tin of coconut milk.",
+                "The chopping board.",
+                "The bottle of sriracha sauce.",
+                "The lettuce bag.",
+                "The left oven glove.",
+                "The bottile of oil."
+            ],
+            "correct_idx": 6
+        }
+    },
+    {
+        "gaze_interaction_anticipation_949": {
+            "inputs": {
+                "video 1": {
+                    "id": "P07-20240529-194518",
+                    "start_time": "00:14:10.000",
+                    "end_time": "00:14:20.000"
+                }
+            },
+            "question": "What object will the person interact with next, ignoring ongoing interactions?",
+            "choices": [
+                "The roll of pastry.",
+                "The piece of kitchen roll.",
+                "The kitchen roll.",
+                "The wooden spatula.",
+                "The bottle of oil.",
+                "The lid of wine bottle.",
+                "The wrapped potato chicken balls.",
+                "The bag of food.",
+                "The lid of jar of sugar.",
+                "The brush.",
+                "The fork.",
+                "The sponge.",
+                "The rind.",
+                "The bowl of porridge.",
+                "The empty cheese packaging."
+            ],
+            "correct_idx": 1
+        }
+    },
+    {
+        "nutrition_nutrition_change_47": {
+            "inputs": {
+                "video 1": {
+                    "id": "P07-20240529-194518",
+                    "start_time": "00:03:43.010",
+                    "end_time": "00:03:48.024"
+                }
+            },
+            "question": "From <TIME 00:03:43.010 video 1> to <TIME 00:03:48.024 video 1>, what changed in the nutrition values of the dish with recipe mushroom risotto?",
+            "choices": [
+                "calories changed by 407.9, fat changed by 1.1, carbs changed by 102.8, protein changed by 2.4",
+                "calories changed by 32.6, fat changed by 0.1, carbs changed by 2.3, protein changed by 0.7",
+                "calories changed by 884.0, fat changed by 97.0, carbs changed by 1.0, protein changed by 1.1",
+                "calories changed by 3.0, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0",
+                "calories changed by 132.2, fat changed by 0.0, carbs changed by 7.0, protein changed by 0.0",
+                "calories changed by 0.6, fat changed by 0.0, carbs changed by 0.0, protein changed by 0.0",
+                "calories changed by 1.1, fat changed by 0.1, carbs changed by 0.3, protein changed by 0.1",
+                "calories changed by 1529.7, fat changed by 116.6, carbs changed by 459.7, protein changed by 42.8",
+                "calories changed by 1021.9, fat changed by 1.3, carbs changed by 38.2, protein changed by 15.2",
+                "calories changed by 287.0, fat changed by 0.4, carbs changed by 85.3, protein changed by 13.6",
+                "calories changed by 751.1, fat changed by 0.3, carbs changed by 67.8, protein changed by 4.1",
+                "calories changed by 127.5, fat changed by 1.2, carbs changed by 12.0, protein changed by 0.7",
+                "calories changed by 122.4, fat changed by 0.5, carbs changed by 36.5, protein changed by 4.0",
+                "calories changed by 212.4, fat changed by 2.0, carbs changed by 0.0, protein changed by 0.0",
+                "calories changed by 585.0, fat changed by 0.9, carbs changed by 129.3, protein changed by 10.6"
+            ],
+            "correct_idx": 14,
+            "metadata": [
+                "calories: random multiplier=1.7,fat: random multiplier=1.5,carbs: random multiplier=0.3,protein: random multiplier=1.4",
+                "No change (positive), ingredient: risotto rice",
+                "calories: random multiplier=0.2,fat: random multiplier=0.6,carbs: random multiplier=0.3,protein: random multiplier=0.4",
+                "calories: random multiplier=1.3,fat: random multiplier=0.3,carbs: random multiplier=0.5,protein: random multiplier=0.4",
+                "calories: random multiplier=0.5,fat: random multiplier=0.5,carbs: random multiplier=0.7,protein: random multiplier=1.3"
+            ]
+        }
+    },
+    {
+        "nutrition_nutrition_change_40": {
+            "inputs": {
+                "video 1": {
+                    "id": "P01-20240204-121042",
+                    "start_time": "00:09:35.000",
+                    "end_time": "00:09:39.990"
+                }
+            },
+            "question": "From <TIME 00:09:35.000 video 1> to <TIME 00:09:39.990 video 1>, what changed in the nutrition values of the dish with recipe date balls?",
+            "choices": [
+                "calories changed by 1510.0, fat changed by 0.8, carbs changed by 408.6, protein changed by 9.9",
+                "calories changed by 1.1, fat changed by 0.1, carbs changed by 0.3, protein changed by 0.1",
+                "calories changed by 2382.8, fat changed by 1.0, carbs changed by 634.4, protein changed by 5.0",
+                "calories changed by 43.4, fat changed by 0.2, carbs changed by 2.1, protein changed by 0.3",
+                "calories changed by 760.0, fat changed by 0.0, carbs changed by 196.2, protein changed by 0.2",
+                "calories changed by 106.5, fat changed by 0.9, carbs changed by 8.2, protein changed by 4.4",
+                "calories changed by 1082.3, fat changed by 0.2, carbs changed by 54.3, protein changed by 6.9",
+                "calories changed by 1.6, fat changed by 0.1, carbs changed by 0.4, protein changed by 0.0",
+                "calories changed by 16.6, fat changed by 0.0, carbs changed by 2.2, protein changed by 0.1",
+                "calories changed by 535.4, fat changed by 0.6, carbs changed by 566.4, protein changed by 3.7",
+                "calories changed by 1320.7, fat changed by 39.4, carbs changed by 0.0, protein changed by 0.2",
+                "calories changed by 109.0, fat changed by 1.0, carbs changed by 17.0, protein changed by 6.0",
+                "calories changed by 740.1, fat changed by 54.8, carbs changed by 11.9, protein changed by 4.8",
+                "calories changed by 361.3, fat changed by 0.2, carbs changed by 194.9, protein changed by 5.7",
+                "calories changed by 6.8, fat changed by 0.0, carbs changed by 0.5, protein changed by 0.2"
+            ],
+            "correct_idx": 0,
+            "metadata": [
+                "calories: random multiplier=1.6,fat: random multiplier=1.3,carbs: random multiplier=1.6,protein: random multiplier=0.5",
+                "calories: random multiplier=0.2,fat: random multiplier=0.2,carbs: random multiplier=0.5,protein: random multiplier=0.6",
+                "calories: random multiplier=0.7,fat: random multiplier=0.2,carbs: random multiplier=0.1,protein: random multiplier=0.7",
+                "No change (positive), ingredient: medjool dates",
+                "calories: random multiplier=0.4,fat: random multiplier=0.7,carbs: random multiplier=1.4,protein: random multiplier=0.4"
+            ]
+        }
+    },
+    {
+        "object_motion_stationary_object_localization_173": {
+            "inputs": {
+                "video 1": {
+                    "id": "P07-20240529-102652"
+                },
+                "image 1": {
+                    "time": "00:00:39.766",
+                    "id": "P07-20240529-102652"
+                }
+            },
+            "question": "After the object <BBOX 1010.872 690.762 1294.879 806.2909999999999> seen at <TIME 00:00:39.766 video 1> is first moved, from which of the following starting times does the object remain static for more than 201 seconds?",
+            "choices": [
+                "<TIME 00:03:46.672 video 1>",
+                "<TIME 00:08:32.199 video 1>",
+                "<TIME 00:02:23.618 video 1>",
+                "<TIME 00:04:34.112 video 1>",
+                "<TIME 00:38:44.184 video 1>",
+                "<TIME 00:15:05.172 video 1>",
+                "<TIME 00:04:08.257 video 1>",
+                "<TIME 00:03:41.274 video 1>",
+                "<TIME 00:02:17.955 video 1>",
+                "<TIME 00:00:54.618 video 1>",
+                "<TIME 00:10:33.792 video 1>",
+                "<TIME 00:26:46.618 video 1>",
+                "<TIME 00:03:26.106 video 1>",
+                "<TIME 00:00:41.215 video 1>",
+                "<TIME 00:17:35.779 video 1>"
+            ],
+            "correct_idx": 9
+        }
+    },
+    {
+        "object_motion_stationary_object_localization_62": {
+            "inputs": {
+                "video 1": {
+                    "id": "P09-20240622-162302"
+                },
+                "image 1": {
+                    "id": "P09-20240622-162302",
+                    "time": "00:05:22.066"
+                }
+            },
+            "question": "After the object <BBOX 1056.602 767.781 1176.9440000000002 859.241> seen at <TIME 00:05:22.066 video 1> is first moved, from which of the following starting times does the object remain static for more than 130 seconds?",
+            "choices": [
+                "<TIME 00:07:25.144 video 1>",
+                "<TIME 00:15:06.805 video 1>",
+                "<TIME 00:01:07.494 video 1>",
+                "<TIME 00:01:57.250 video 1>",
+                "<TIME 00:06:46.357 video 1>",
+                "<TIME 00:10:19.519 video 1>",
+                "<TIME 00:12:00.248 video 1>",
+                "<TIME 00:12:40.615 video 1>",
+                "<TIME 00:04:55.236 video 1>",
+                "<TIME 00:03:34.767 video 1>",
+                "<TIME 00:07:07.834 video 1>",
+                "<TIME 00:04:56.384 video 1>",
+                "<TIME 00:25:10.517 video 1>",
+                "<TIME 00:01:26.581 video 1>",
+                "<TIME 00:01:05.465 video 1>"
+            ],
+            "correct_idx": 10
+        }
+    },
+    {
+        "gaze_gaze_estimation_827": {
+            "inputs": {
+                "video 1": {
+                    "id": "P09-20240624-165332",
+                    "start_time": "00:07:31.866",
+                    "end_time": "00:07:33.133"
+                }
+            },
+            "question": "What is the person looking at in this video segment?",
+            "choices": [
+                "At the oven to the right of the fridge.",
+                "At the hob.",
+                "At the shelf to the right of and above the dishwasher.",
+                "At the counter to the right of the sink.",
+                "At the extractorfan.",
+                "At the shelf to the left of the hob.",
+                "At the cupboard to the left of and above the microwave.",
+                "At the sink.",
+                "At the drawer to the right of and below the fridge.",
+                "At the cupboard directly below the sink.",
+                "At the cupboard to the right of and above the windowsill.",
+                "At the cupboard to the right of and above the sink.",
+                "At the windowsill to the right of the microwave.",
+                "At the basket directly above the table.",
+                "At the oven."
+            ],
+            "correct_idx": 3
+        }
+    },
+    {
+        "gaze_gaze_estimation_272": {
+            "inputs": {
+                "video 1": {
+                    "id": "P05-20240425-201444",
+                    "start_time": "00:20:25.266",
+                    "end_time": "00:20:26.533"
+                }
+            },
+            "question": "What is the person looking at in this video segment?",
+            "choices": [
+                "At the counter to the right of and above the storage.",
+                "At the dishwasher.",
+                "At the table to the left of and above the bin.",
+                "At the cupboard to the right of and above the sink.",
+                "At the drawer to the right of the fridge.",
+                "At the drawer to the left of the hook.",
+                "At the drawer directly below the hob.",
+                "At the drawer to the right of and below the microwave.",
+                "At the counter to the left of the microwave.",
+                "At the oven to the left of the hob.",
+                "At the counter behind the table.",
+                "At the microwave.",
+                "At the shelf to the left of and below the microwave.",
+                "At the drawer behind the table.",
+                "At the hook to the left of the microwave."
+            ],
+            "correct_idx": 12
+        }
+    },
+    {
+        "fine_grained_why_recognition_204": {
+            "inputs": {
+                "video 1": {
+                    "id": "P06-20240510-140459",
+                    "start_time": "00:10:42.750",
+                    "end_time": "00:10:45.809"
+                }
+            },
+            "question": "What is the best description for why the person performed the action <open door> in video 1?",
+            "choices": [
+                "to enter into the living room.",
+                "to mix the plant-based burger with the mushrooms, the onion and the sour cream.",
+                "to dry them.",
+                "to make sure that the food in the frying pan's cooking evenly with the spatula in the right hand whilst holding the frying pan in the left hand.",
+                "to place the plastic container held in the left hand back in the refrigerator.",
+                "to release all pieces of crisp.",
+                "so that the aubergine gets cooked evenly and the aubergine doesn't get burnt or stuck on the pan.",
+                "so that I can continue mixing with mashed potato and cheese.",
+                "to access kitchen.",
+                "to make sure that the potatoes are cooking evenly.",
+                "so that I can properly replace the lid.",
+                "to get hot water.",
+                "so I can store the blender.",
+                "so that I can easily place the grey bowl on the counter surface with the others.",
+                "so that I can place the bowl."
+            ],
+            "correct_idx": 8,
+            "stat": "2 make up"
+        }
+    },
+    {
+        "fine_grained_why_recognition_321": {
+            "inputs": {
+                "video 1": {
+                    "id": "P09-20240622-194642",
+                    "start_time": "00:00:42.210",
+                    "end_time": "00:00:43.450"
+                }
+            },
+            "question": "What is the best description for why the person performed the action <open cupboard> in video 1?",
+            "choices": [
+                "to clear all the cheese and make it fall into the pan.",
+                "to distribute the liquid egg evenly.",
+                "so that I can place the bag of flour back in.",
+                "in order to get the last remaining bits of olive oil into the cooker.",
+                "so I can begin washing.",
+                "to get sriracha sauce into the yogurt bowl.",
+                "so that I can shelve items in the cupboard.",
+                "to grab something to put the zested lemon down onto.",
+                "so that I can dip the potato chicken ball in egg.",
+                "so I can retrieve some bowls.",
+                "so as to shallow fry the chillies and the lentils in the pan.",
+                "to look for a pan for the potatoes to fry in.",
+                "to shake off excess cheese.",
+                "to access the blade behind a plate.",
+                "to change setting."
+            ],
+            "correct_idx": 6,
+            "stat": "true narrations"
+        }
+    },
+    {
+        "ingredient_ingredient_weight_4": {
+            "inputs": {
+                "video 1": {
+                    "id": "P01-20240204-121042",
+                    "start_time": "00:00:32.000",
+                    "end_time": "00:00:45.990"
+                }
+            },
+            "question": "How much did the participant weigh of unsalted butter in this video?",
+            "choices": [
+                "176 g",
+                "32 g",
+                "33 g",
+                "25 g",
+                "296 g",
+                "28 g",
+                "41 g",
+                "8 g",
+                "4 tsp",
+                "40 g",
+                "30 g",
+                "35 g",
+                "1 teaspoon",
+                "220 g",
+                "168 g"
+            ],
+            "correct_idx": 10
+        }
+    },
+    {
+        "ingredient_ingredient_weight_1": {
+            "inputs": {
+                "video 1": {
+                    "id": "P05-20240424-171038",
+                    "start_time": "00:18:14.064",
+                    "end_time": "00:18:29.058"
+                }
+            },
+            "question": "How much did the participant weigh of lettuce in this video?",
+            "choices": [
+                "229 g",
+                "40 g",
+                "2 g",
+                "389 g",
+                "0 teaspoon",
+                "196 g",
+                "2 tbsp",
+                "212 g",
+                "47 g",
+                "230 g",
+                "32 g",
+                "264 g",
+                "418 g",
+                "14 g",
+                "25 g"
+            ],
+            "correct_idx": 9
+        }
+    },
+    {
+        "ingredient_ingredient_recognition_36": {
+            "inputs": {
+                "video 1": {
+                    "id": "P04-20240414-165333"
+                },
+                "video 2": {
+                    "id": "P04-20240414-064514"
+                },
+                "video 3": {
+                    "id": "P04-20240414-172534"
+                },
+                "video 4": {
+                    "id": "P04-20240413-142619"
+                },
+                "video 5": {
+                    "id": "P04-20240413-145245"
+                },
+                "video 6": {
+                    "id": "P04-20240415-175615"
+                },
+                "video 7": {
+                    "id": "P04-20240414-162242"
+                },
+                "video 8": {
+                    "id": "P04-20240415-184003"
+                },
+                "video 9": {
+                    "id": "P04-20240414-162750"
+                },
+                "video 10": {
+                    "id": "P04-20240414-065311"
+                },
+                "video 11": {
+                    "id": "P04-20240414-164751"
+                },
+                "video 12": {
+                    "id": "P04-20240414-170520"
+                },
+                "video 13": {
+                    "id": "P04-20240415-181212"
+                },
+                "video 14": {
+                    "id": "P04-20240413-151722"
+                },
+                "video 15": {
+                    "id": "P04-20240414-173337"
+                }
+            },
+            "question": "Which of these ingredients is used in Peas Pulao",
+            "choices": [
+                "fresh thyme",
+                "salt",
+                "green peas",
+                "tahini",
+                "lemon juice",
+                "bay leaves",
+                "cinnamon sticks",
+                "smoked salmon",
+                "water",
+                "dijon mustard",
+                "cumin seeds",
+                "mustard seeds",
+                "worcestershire sauce",
+                "mint leaves",
+                "sesame oil"
+            ],
+            "correct_idx": 2
+        }
+    },
+    {
+        "ingredient_ingredient_recognition_41": {
+            "inputs": {
+                "video 1": {
+                    "id": "P01-20240204-121042"
+                },
+                "video 2": {
+                    "id": "P01-20240203-152323"
+                },
+                "video 3": {
+                    "id": "P01-20240204-130448"
+                },
+                "video 4": {
+                    "id": "P01-20240202-110250"
+                },
+                "video 5": {
+                    "id": "P01-20240204-120411"
+                },
+                "video 6": {
+                    "id": "P01-20240203-121517"
+                },
+                "video 7": {
+                    "id": "P01-20240202-161354"
+                },
+                "video 8": {
+                    "id": "P01-20240204-152537"
+                },
+                "video 9": {
+                    "id": "P01-20240203-135502"
+                },
+                "video 10": {
+                    "id": "P01-20240204-142301"
+                },
+                "video 11": {
+                    "id": "P01-20240202-161948"
+                },
+                "video 12": {
+                    "id": "P01-20240203-184214"
+                },
+                "video 13": {
+                    "id": "P01-20240203-132119"
+                },
+                "video 14": {
+                    "id": "P01-20240203-123350"
+                },
+                "video 15": {
+                    "id": "P01-20240203-130505"
+                },
+                "video 16": {
+                    "id": "P01-20240204-145458"
+                },
+                "video 17": {
+                    "id": "P01-20240203-161757"
+                },
+                "video 18": {
+                    "id": "P01-20240204-124504"
+                },
+                "video 19": {
+                    "id": "P01-20240203-150506"
+                }
+            },
+            "question": "Which of these ingredients is not used in Cacio e Pepe",
+            "choices": [
+                "penne pasta",
+                "dried mushrooms",
+                "smoked salmon",
+                "garlic",
+                "black beans",
+                "parmigiano",
+                "black pepper",
+                "fat free cottage cheese",
+                "feta cheese",
+                "ricotta cheese",
+                "parmesan",
+                "curry leaves",
+                "brown onions",
+                "honey",
+                "black peppercorns"
+            ],
+            "correct_idx": 9
+        }
+    },
+    {
+        "3d_perception_fixture_location_164": {
+            "inputs": {
+                "video 1": {
+                    "id": "P05-20240425-201444"
+                }
+            },
+            "question": "Given the direction I am looking at <TIME 00:17:40.667 video 1>, where is the top of freezer located?",
+            "choices": [
+                "5 o'clock",
+                "8 o'clock",
+                "12 o'clock",
+                "7 o'clock",
+                "9 o'clock",
+                "10 o'clock",
+                "1 o'clock",
+                "6 o'clock",
+                "3 o'clock",
+                "9 o'clock",
+                "2 o'clock",
+                "4 o'clock",
+                "8 o'clock",
+                "11 o'clock",
+                "5 o'clock"
+            ],
+            "correct_idx": 14
+        }
+    },
+    {
+        "3d_perception_fixture_location_407": {
+            "inputs": {
+                "video 1": {
+                    "id": "P07-20240529-191007"
+                }
+            },
+            "question": "Given the direction I am looking at <TIME 00:00:30.5 video 1>, where is the washing machine located?",
+            "choices": [
+                "4 o'clock",
+                "2 o'clock",
+                "12 o'clock",
+                "8 o'clock",
+                "6 o'clock",
+                "9 o'clock",
+                "3 o'clock",
+                "5 o'clock",
+                "7 o'clock",
+                "3 o'clock",
+                "1 o'clock",
+                "1 o'clock",
+                "11 o'clock",
+                "7 o'clock",
+                "5 o'clock"
+            ],
+            "correct_idx": 14
+        }
+    },
+    {
+        "recipe_following_activity_recognition_6": {
+            "inputs": {
+                "video 1": {
+                    "id": "P04-20240414-173337"
+                }
+            },
+            "question": "Which high-level activity did the participant do while completing recipe step Gently stir until completely blended and set aside for a few minutes in this video?",
+            "choices": [
+                "reloading the dishwasher",
+                "pour oil into pot, add salt, add chicken and red curry paste and stir",
+                "take and wash another cup",
+                "adjust the dosa batter's thickness",
+                "clean up",
+                "cut baguette",
+                "move the broken dosa onto the plate",
+                "put mushrooms in the fridge, dispose of mushroom packaging",
+                "mix spices and pour over mushrooms",
+                "wash ladle",
+                "tidy up - load the dishwasher and wash up",
+                "pack remaining mushrooms, add tomatoes and cook",
+                "try to pick up dosa from the pan with a spatula",
+                "flip spanish tortilla and bring it to the table",
+                "transfer fries to plate, season and taste"
+            ],
+            "correct_idx": 3
+        }
+    },
+    {
+        "recipe_following_activity_recognition_38": {
+            "inputs": {
+                "video 1": {
+                    "id": "P03-20240217-192543"
+                }
+            },
+            "question": "Which high-level activity did the participant do while completing recipe step Chop the garlic in large chunks and stir fry it in a saucepan with olive oil at medium heat in this video?",
+            "choices": [
+                "preheat oven and gather ingredients",
+                "clean and clear",
+                "weigh ingredients - garlic and ginger",
+                "put mushrooms in the fridge, dispose of mushroom packaging",
+                "transfer fries to plate, season and taste",
+                "turn off hob, drain water out of saucepan and cool down egg",
+                "add rice to cooker and stir",
+                "get pizza oven and other utensils, get semolina flour",
+                "load dishwasher and tidy up",
+                "return yoghurt to fridge",
+                "prepare tomato sauce",
+                "stir mushrooms",
+                "packing away yoghurt",
+                "taking items out of fridge and cupboards and setting these on counter",
+                "tidy up"
+            ],
+            "correct_idx": 10
+        }
+    },
+    {
+        "ingredient_ingredient_retrieval_12": {
+            "inputs": {
+                "video 1": {
+                    "id": "P03-20240217-192543"
+                }
+            },
+            "question": "Between <TIME 00:06:48.000 video 1> and <TIME 00:07:14.990 video 1>, which of these ingredients were added to the dish being prepared?",
+            "choices": [
+                "kale",
+                "salted butter",
+                "black pepper",
+                "mozzarella",
+                "dried mushrooms",
+                "chestnut mushrooms",
+                "black pepper",
+                "sunflower oil",
+                "tomato passata",
+                "beef",
+                "peanut butter",
+                "finger chillies",
+                "chickpea, spinach & quinoa mix",
+                "raspberries",
+                "spaghetti"
+            ],
+            "correct_idx": 6
+        }
+    },
+    {
+        "ingredient_ingredient_retrieval_45": {
+            "inputs": {
+                "video 1": {
+                    "id": "P08-20240617-184909"
+                }
+            },
+            "question": "Between <TIME 00:18:33.035 video 1> and <TIME 00:18:50.031 video 1>, which of these ingredients were added to the dish being prepared?",
+            "choices": [
+                "pizza dough",
+                "butter",
+                "green chilli",
+                "cod fishcakes",
+                "garlic",
+                "cucumber",
+                "chopped tomato",
+                "chicken thighs",
+                "garlic",
+                "fennel seeds",
+                "garlic and ginger paste",
+                "green beans",
+                "sesame oil",
+                "wholemeal tortilla",
+                "lemon juice"
+            ],
+            "correct_idx": 11
+        }
+    },
+    {
+        "3d_perception_object_contents_retrieval_76": {
+            "inputs": {
+                "video 1": {
+                    "id": "P08-20240614-184945"
+                }
+            },
+            "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 610.9263672942282 587.7885968220188 1195.4485659159036 1245.554397037611> in <TIME 00:00:23.0 video 1>?",
+            "choices": [
+                "hand blender cup, ramekin, shelf",
+                "plastic bag, butter paper, yoghurt",
+                "lid of food processor, tin of cocoa powder",
+                "glass lid, pan",
+                "sink plug, scrubbing brush",
+                "packets of cherry tomatoes",
+                "ramekin, hand blender cup",
+                "baking tray, tea towel",
+                "Nothing",
+                "saucepan lid, third bowl, teaspoon",
+                "frying pan",
+                "more cutlery, cutlery",
+                "plastic box lid, large white jug of dishwashing liquid",
+                "ramekin",
+                "plastic bag"
+            ],
+            "correct_idx": 7
+        }
+    },
+    {
+        "3d_perception_object_contents_retrieval_26": {
+            "inputs": {
+                "video 1": {
+                    "id": "P01-20240202-110250"
+                }
+            },
+            "question": "Which of these objects did the person put in/on the item indicated by bounding box <BBOX 94.74322969464288 531.2886718513437 1121.9505506918083 1081.9932964269942> in <TIME 00:00:9.867 video 1>?",
+            "choices": [
+                "bottle, yoghurt",
+                "bowl, cloth",
+                "colander, glass jug, digital weighing scale",
+                "knife, cloth, glass",
+                "laundry conditioner cap, drain cover, lid",
+                "towel, mug, teapot",
+                "Nothing",
+                "food processor, tupperware",
+                "tin of tomatoes",
+                "bottle of sriracha sauce, jars of salt, spice jar",
+                "something, tiramisu pot",
+                "plastic box lid",
+                "metal bowl",
+                "dish scrubber, wooden scrubbing brush, scourer",
+                "lid of jar of sugar, napkin, third spoon"
+            ],
+            "correct_idx": 6
+        }
+    },
+    {
+        "recipe_step_localization_44": {
+            "inputs": {
+                "video 1": {
+                    "id": "P05-20240425-201444"
+                }
+            },
+            "question": "When did the participant perform step Divide the batter between the two moulds, leaving a little room at the top for them to rise. If you'd like to eat them immediately, put them on the hot baking tray in the oven for 12 minutes, until the tops are set and the cake mix is just starting to come away from the sides of the moulds from recipe Chocolate Pudding?",
+            "choices": [
+                "<TIME 00:18:45.725 video 1> to <TIME 00:18:59.480 video 1> (video 1), <TIME 00:20:16.071 video 1> to <TIME 00:20:25.074 video 1> (video 1), <TIME 00:21:18.122 video 1> to <TIME 00:21:52.433 video 1> (video 1), <TIME 00:28:04.134 video 1> to <TIME 00:28:12.825 video 1> (video 1), <TIME 00:29:54.879 video 1> to <TIME 00:30:17.952 video 1> (video 1), <TIME 00:31:00.316 video 1> to <TIME 00:31:56.763 video 1> (video 1), <TIME 00:32:20.544 video 1> to <TIME 00:33:19.322 video 1> (video 1)",
+                "<TIME 00:00:19.973 video 1> to <TIME 00:00:22.060 video 1> (video 1), <TIME 00:00:25.544 video 1> to <TIME 00:00:25.846 video 1> (video 1), <TIME 00:27:52.573 video 1> to <TIME 00:27:53.554 video 1> (video 1)",
+                "<TIME 00:02:50.975 video 1> to <TIME 00:03:00.575 video 1> (video 1), <TIME 00:03:11.252 video 1> to <TIME 00:03:41.698 video 1> (video 1)",
+                "<TIME 00:11:24.630 video 1> to <TIME 00:11:25.167 video 1> (video 1), <TIME 00:11:25.033 video 1> to <TIME 00:11:31.560 video 1> (video 1), <TIME 00:12:48.916 video 1> to <TIME 00:13:16.616 video 1> (video 1), <TIME 00:13:22.366 video 1> to <TIME 00:13:34.005 video 1> (video 1), <TIME 00:13:37.144 video 1> to <TIME 00:13:44.283 video 1> (video 1), <TIME 00:13:49.727 video 1> to <TIME 00:13:54.686 video 1> (video 1), <TIME 00:17:25.172 video 1> to <TIME 00:17:25.267 video 1> (video 1), <TIME 00:17:31.033 video 1> to <TIME 00:17:35.002 video 1> (video 1), <TIME 00:23:38.964 video 1> to <TIME 00:23:40.644 video 1> (video 1)",
+                "<TIME 00:05:03.789 video 2> to <TIME 00:05:04.516 video 2> (video 2)",
+                "<TIME 00:05:14.072 video 1> to <TIME 00:05:24.607 video 1> (video 1), <TIME 00:05:26.425 video 1> to <TIME 00:05:30.461 video 1> (video 1), <TIME 00:07:26.159 video 1> to <TIME 00:07:41.759 video 1> (video 1), <TIME 00:09:46.384 video 1> to <TIME 00:09:47.734 video 1> (video 1), <TIME 00:11:37.580 video 1> to <TIME 00:11:43.084 video 1> (video 1)",
+                "<TIME 00:13:30.073 video 1> to <TIME 00:15:13.073 video 1> (video 1), <TIME 00:15:27.006 video 1> to <TIME 00:15:31.773 video 1> (video 1), <TIME 00:25:14.782 video 1> to <TIME 00:25:21.329 video 1> (video 1), <TIME 00:25:29.453 video 1> to <TIME 00:26:40.681 video 1> (video 1)",
+                "<TIME 00:01:01.083 video 1> to <TIME 00:01:31.883 video 1> (video 1), <TIME 00:04:02.113 video 1> to <TIME 00:04:10.206 video 1> (video 1), <TIME 00:05:29.836 video 1> to <TIME 00:07:32.277 video 1> (video 1), <TIME 00:09:48.773 video 1> to <TIME 00:09:53.890 video 1> (video 1), <TIME 00:10:00.127 video 1> to <TIME 00:11:02.840 video 1> (video 1), <TIME 00:11:11.056 video 1> to <TIME 00:11:11.956 video 1> (video 1), <TIME 00:11:15.199 video 1> to <TIME 00:11:31.423 video 1> (video 1)",
+                "<TIME 00:11:47.590 video 1> to <TIME 00:13:14.256 video 1> (video 1)",
+                "<TIME 00:10:53.203 video 1> to <TIME 00:11:27.417 video 1> (video 1)",
+                "<TIME 00:14:27.216 video 1> to <TIME 00:14:28.846 video 1> (video 1), <TIME 00:29:00.710 video 1> to <TIME 00:29:03.399 video 1> (video 1), <TIME 00:35:42.496 video 1> to <TIME 00:35:43.828 video 1> (video 1), <TIME 00:35:47.024 video 1> to <TIME 00:36:00.346 video 1> (video 1), <TIME 00:38:31.461 video 1> to <TIME 00:38:47.024 video 1> (video 1), <TIME 00:38:49.077 video 1> to <TIME 00:38:49.953 video 1> (video 1), <TIME 00:38:54.142 video 1> to <TIME 00:39:18.649 video 1> (video 1), <TIME 00:40:58.117 video 1> to <TIME 00:40:59.471 video 1> (video 1), <TIME 00:41:01.292 video 1> to <TIME 00:41:22.292 video 1> (video 1), <TIME 00:41:36.224 video 1> to <TIME 00:41:38.935 video 1> (video 1), <TIME 00:41:41.734 video 1> to <TIME 00:41:58.132 video 1> (video 1), <TIME 00:49:14.380 video 1> to <TIME 00:49:16.899 video 1> (video 1), <TIME 00:49:19.459 video 1> to <TIME 00:49:35.024 video 1> (video 1), <TIME 00:54:44.774 video 1> to <TIME 00:54:48.024 video 1> (video 1), <TIME 00:54:50.781 video 1> to <TIME 00:55:02.774 video 1> (video 1)",
+                "<TIME 00:18:22.762 video 1> to <TIME 00:18:57.479 video 1> (video 1), <TIME 00:19:50.793 video 1> to <TIME 00:20:05.290 video 1> (video 1), <TIME 00:20:38.913 video 1> to <TIME 00:20:46.969 video 1> (video 1), <TIME 00:22:37.592 video 1> to <TIME 00:22:39.950 video 1> (video 1), <TIME 00:22:43.724 video 1> to <TIME 00:22:56.233 video 1> (video 1), <TIME 00:24:02.542 video 1> to <TIME 00:24:12.837 video 1> (video 1), <TIME 00:25:12.019 video 1> to <TIME 00:25:25.724 video 1> (video 1), <TIME 00:26:22.751 video 1> to <TIME 00:26:33.064 video 1> (video 1), <TIME 00:27:08.909 video 1> to <TIME 00:27:14.196 video 1> (video 1), <TIME 00:27:55.775 video 1> to <TIME 00:28:03.554 video 1> (video 1)",
+                "<TIME 00:17:27.231 video 1> to <TIME 00:17:43.042 video 1> (video 1)",
+                "<TIME 00:01:22.355 video 2> to <TIME 00:02:20.110 video 2> (video 2), <TIME 00:02:52.640 video 2> to <TIME 00:02:53.989 video 2> (video 2)",
+                "<TIME 00:03:42.708 video 1> to <TIME 00:03:45.067 video 1> (video 1), <TIME 00:03:52.067 video 1> to <TIME 00:03:53.298 video 1> (video 1), <TIME 00:04:35.744 video 1> to <TIME 00:04:55.760 video 1> (video 1), <TIME 00:05:15.935 video 1> to <TIME 00:05:20.944 video 1> (video 1), <TIME 00:07:38.604 video 1> to <TIME 00:09:13.490 video 1> (video 1)"
+            ],
+            "correct_idx": 6
+        }
+    },
+    {
+        "recipe_step_localization_10": {
+            "inputs": {
+                "video 1": {
+                    "id": "P05-20240425-171455"
+                },
+                "video 2": {
+                    "id": "P05-20240425-173353"
+                }
+            },
+            "question": "When did the participant perform step Cook the pasta in a pan of boiling salted water according to the packet instructions from recipe Carbonara with Side Salad?",
+            "choices": [
+                "<TIME 00:06:06.496 video 1> to <TIME 00:06:20.203 video 1> (video 1)",
+                "<TIME 00:08:17.149 video 1> to <TIME 00:08:32.974 video 1> (video 1), <TIME 00:08:46.244 video 1> to <TIME 00:09:25.974 video 1> (video 1), <TIME 00:13:55.252 video 1> to <TIME 00:14:03.613 video 1> (video 1), <TIME 00:14:18.629 video 1> to <TIME 00:14:49.727 video 1> (video 1), <TIME 00:15:19.104 video 1> to <TIME 00:15:32.285 video 1> (video 1), <TIME 00:15:41.891 video 1> to <TIME 00:16:08.482 video 1> (video 1), <TIME 00:16:13.432 video 1> to <TIME 00:16:45.400 video 1> (video 1), <TIME 00:00:53.637 video 2> to <TIME 00:01:06.067 video 2> (video 2), <TIME 00:01:06.033 video 2> to <TIME 00:01:06.192 video 2> (video 2)",
+                "<TIME 00:05:14.072 video 1> to <TIME 00:05:24.607 video 1> (video 1), <TIME 00:05:26.425 video 1> to <TIME 00:05:30.461 video 1> (video 1), <TIME 00:07:26.159 video 1> to <TIME 00:07:41.759 video 1> (video 1), <TIME 00:09:46.384 video 1> to <TIME 00:09:47.734 video 1> (video 1), <TIME 00:11:37.580 video 1> to <TIME 00:11:43.084 video 1> (video 1)",
+                "<TIME 00:04:09.456 video 2> to <TIME 00:04:12.777 video 2> (video 2), <TIME 00:04:16.456 video 2> to <TIME 00:04:30.599 video 2> (video 2), <TIME 00:04:47.536 video 2> to <TIME 00:04:49.170 video 2> (video 2), <TIME 00:04:57.791 video 2> to <TIME 00:05:05.438 video 2> (video 2), <TIME 00:05:48.424 video 2> to <TIME 00:05:49.491 video 2> (video 2)",
+                "<TIME 00:05:19.196 video 1> to <TIME 00:05:35.498 video 1> (video 1), <TIME 00:05:43.954 video 1> to <TIME 00:06:33.292 video 1> (video 1), <TIME 00:07:14.069 video 1> to <TIME 00:07:25.149 video 1> (video 1), <TIME 00:07:43.657 video 1> to <TIME 00:07:56.276 video 1> (video 1), <TIME 00:09:43.059 video 1> to <TIME 00:09:52.593 video 1> (video 1), <TIME 00:10:28.240 video 1> to <TIME 00:10:39.088 video 1> (video 1), <TIME 00:11:08.416 video 1> to <TIME 00:11:18.022 video 1> (video 1), <TIME 00:12:03.379 video 1> to <TIME 00:12:13.793 video 1> (video 1), <TIME 00:12:35.367 video 1> to <TIME 00:12:54.318 video 1> (video 1), <TIME 00:14:59.863 video 1> to <TIME 00:15:10.875 video 1> (video 1), <TIME 00:16:51.428 video 1> to <TIME 00:17:10.449 video 1> (video 1), <TIME 00:00:35.007 video 2> to <TIME 00:00:40.324 video 2> (video 2), <TIME 00:01:34.787 video 2> to <TIME 00:01:37.390 video 2> (video 2), <TIME 00:01:39.488 video 2> to <TIME 00:01:47.193 video 2> (video 2), <TIME 00:02:20.996 video 2> to <TIME 00:02:26.259 video 2> (video 2), <TIME 00:04:27.228 video 2> to <TIME 00:04:28.308 video 2> (video 2)",
+                "<TIME 00:16:38.034 video 1> to <TIME 00:17:02.805 video 1> (video 1), <TIME 00:17:11.063 video 1> to <TIME 00:18:12.221 video 1> (video 1)",
+                "<TIME 00:21:25.214 video 4> to <TIME 00:21:33.426 video 4> (video 4), <TIME 00:21:58.578 video 4> to <TIME 00:22:27.184 video 4> (video 4), <TIME 00:22:30.699 video 4> to <TIME 00:22:34.881 video 4> (video 4), <TIME 00:22:47.057 video 4> to <TIME 00:22:53.184 video 4> (video 4), <TIME 00:23:35.630 video 4> to <TIME 00:23:38.099 video 4> (video 4)",
+                "<TIME 00:12:00.604 video 1> to <TIME 00:12:33.284 video 1> (video 1), <TIME 00:12:49.015 video 1> to <TIME 00:13:16.384 video 1> (video 1), <TIME 00:13:24.917 video 1> to <TIME 00:13:37.034 video 1> (video 1)",
+                "<TIME 00:10:01.679 video 1> to <TIME 00:10:13.121 video 1> (video 1), <TIME 00:10:19.236 video 1> to <TIME 00:10:20.039 video 1> (video 1), <TIME 00:12:55.896 video 1> to <TIME 00:13:06.990 video 1> (video 1)",
+                "<TIME 00:00:10.849 video 2> to <TIME 00:00:23.062 video 2> (video 2), <TIME 00:05:12.586 video 2> to <TIME 00:05:23.177 video 2> (video 2), <TIME 00:05:44.417 video 2> to <TIME 00:06:01.455 video 2> (video 2), <TIME 00:07:23.127 video 2> to <TIME 00:07:37.767 video 2> (video 2), <TIME 00:07:50.750 video 2> to <TIME 00:07:54.619 video 2> (video 2), <TIME 00:08:11.996 video 2> to <TIME 00:08:17.652 video 2> (video 2), <TIME 00:08:25.882 video 2> to <TIME 00:09:11.586 video 2> (video 2)",
+                "<TIME 00:00:15.008 video 2> to <TIME 00:00:32.477 video 2> (video 2)",
+                "<TIME 00:20:38.311 video 1> to <TIME 00:21:05.345 video 1> (video 1), <TIME 00:22:50.769 video 1> to <TIME 00:22:53.633 video 1> (video 1)",
+                "<TIME 00:01:38.050 video 1> to <TIME 00:02:15.182 video 1> (video 1), <TIME 00:09:24.068 video 1> to <TIME 00:09:28.478 video 1> (video 1), <TIME 00:13:28.089 video 1> to <TIME 00:13:29.633 video 1> (video 1)",
+                "<TIME 00:06:03.897 video 2> to <TIME 00:07:00.898 video 2> (video 2)",
+                "<TIME 00:01:16.461 video 1> to <TIME 00:01:54.079 video 1> (video 1), <TIME 00:02:06.934 video 1> to <TIME 00:02:07.934 video 1> (video 1), <TIME 00:02:16.970 video 1> to <TIME 00:03:12.443 video 1> (video 1), <TIME 00:03:19.643 video 1> to <TIME 00:03:46.243 video 1> (video 1)"
+            ],
+            "correct_idx": 8
+        }
+    },
+    {
+        "recipe_multi_recipe_recognition_12": {
+            "inputs": {
+                "video 1": {
+                    "id": "P01-20240204-152537"
+                }
+            },
+            "question": "Which of these recipes were carried out in this video?",
+            "choices": [
+                "Alfredo Pasta",
+                "Paella",
+                "Vermicelli Rice with Meat",
+                "Manakish Zaatar",
+                "Pilaf with Vermicelli",
+                "Chicken Jalfrezi",
+                "Uttapam Pancake",
+                "Aloo Paratha and Uttapam",
+                "Sfesiha (Lebanese Meat Pies)",
+                "Pepperoni Pizza and Carbonara Sauce and Mushroom and Spinach Calzone",
+                "Butternut Squash Risotto",
+                "Rajma (Kidney Bean Curry) with Rice",
+                "Rice Noodles with Beef",
+                "Biryani",
+                "Swedish Meatballs"
+            ],
+            "correct_idx": 2
+        }
+    },
+    {
+        "recipe_multi_recipe_recognition_0": {
+            "inputs": {
+                "video 1": {
+                    "id": "P05-20240425-171455"
+                }
+            },
+            "question": "Which of these recipes were carried out in this video?",
+            "choices": [
+                "Batata Vada",
+                "Chole (Chickpea Curry) with Rice",
+                "Paneer Bhurji and Thai Green Curry",
+                "Falafel Wrap",
+                "Carbonara with Side Salad",
+                "Greek Salad with Garlic Bread",
+                "Chocolate Coconut Truffles",
+                "Sfesiha (Lebanese Meat Pies) and Carrot Soup",
+                "Raspberry and Lemon Curd Tarts and Cheese Straws",
+                "Pesto Pasta",
+                "Mediterranean Vegetable Casserole and Home Fries",
+                "Beef and Broccoli",
+                "Pasta Primavera",
+                "Spaghetti Cacio e Pepe",
+                "Alfredo Pasta"
+            ],
+            "correct_idx": 4
+        }
+    },
+    {
+        "object_motion_object_movement_itinerary_140": {
+            "inputs": {
+                "video 1": {
+                    "id": "P04-20240414-162242"
+                }
+            },
+            "question": "Where was the object <BBOX 805.365 733.16 910.895 802.588> seen at <TIME 00:02:31.167 video 1> moved from/to throughout the video?",
+            "choices": [
+                "from storage bottom right of shelf to counter right of hob, then from counter right of hob to bin",
+                "from storage bottom right of shelf to top of storage",
+                "from counter right of hob to counter bottom left of microwave, then from counter bottom left of microwave to another counter bottom left of microwave, then from counter bottom left of microwave to counter right of hob",
+                "from sink to counter right of sink, then from counter right of sink to cupboard left of fridge",
+                "from counter right of hob to counter top right of fridge, then from counter top right of fridge to counter right of hob, then from counter right of hob to counter top left of fridge, then from counter top left of fridge to bin",
+                "from counter top left of dishwasher to counter top right of dishwasher, then from counter top right of dishwasher to table right of radiator, then from table right of radiator to bin",
+                "from counter top left of fridge to counter top right of fridge, then from counter top right of fridge to counter right of hob, then from counter right of hob to counter right of sink",
+                "from storage to counter right of sink",
+                "from counter top right of washingmachine to floor",
+                "from drawer right of fridge to counter right of hob, then from counter right of hob to hob",
+                "from drawer left of freezer to counter right of sink, then from counter right of sink to counter bottom right of microwave, then from counter bottom right of microwave to counter bottom left of microwave, then from counter bottom left of microwave to counter right of hob",
+                "from drawer bottom right of hob to counter right of hob, then from counter right of hob to storage bottom right of shelf, then from storage bottom right of shelf to top of storage, then from top of storage to hob",
+                "from cupboard left of sink to counter left of sink, then from counter left of sink to storage bottom right of shelf, then from storage bottom right of shelf to top of storage",
+                "from fridge to counter left of hob, then from counter left of hob to counter right of hob, then from counter right of hob to table top left of bin",
+                "from counter right of sink to counter left of microwave"
+            ],
+            "correct_idx": 1
+        }
+    },
+    {
+        "object_motion_object_movement_itinerary_30": {
+            "inputs": {
+                "video 1": {
+                    "id": "P07-20240530-102543"
+                }
+            },
+            "question": "Where was the object <BBOX 914.817 661.837 1119.245 1004.2539999999999> seen at <TIME 00:22:57.267 video 1> moved from/to throughout the video?",
+            "choices": [
+                "from counter right of sink to drawer left of oven, then from drawer left of oven to sink",
+                "from counter left of hob to counter top right of washingmachine, then from counter top right of washingmachine to cupboard left of extractor fan, then from cupboard left of extractor fan to table right of radiator",
+                "from counter left of sink to counter right of hob, then from counter right of hob to counter top right of fridge, then from counter top right of fridge to counter left of sink, then from counter left of sink to sink, then from sink to counter left of sink, then from counter left of sink to sink",
+                "from dishwasher to drawer bottom left of table",
+                "from counter top left of dishwasher to counter right of sink, then from counter right of sink to drawer left of hob, then from drawer left of hob to dishwasher",
+                "from top of storage to counter left of hob, then from counter left of hob to sink, then from sink to counter top left of washingmachine, then from counter top left of washingmachine to counter left of hob",
+                "from counter right of hob to cupboard left of fridge, then from cupboard left of fridge to counter left of sink",
+                "from counter left of sink to drawer bottom left of hob, then from drawer bottom left of hob to counter top right of dishwasher, then from counter top right of dishwasher to sink, then from sink to counter left of sink",
+                "from dishwasher to counter right of sink, then from counter right of sink to drawer left of hob, then from drawer left of hob to counter top left of dishwasher, then from counter top left of dishwasher to dishwasher",
+                "from counter bottom right of microwave to counter right of sink, then from counter right of sink to dishwasher, then from dishwasher to sink",
+                "from counter top left of fridge to another counter top left of fridge, then from counter top left of fridge to counter top right of fridge, then from counter top right of fridge to top of drawer, then from top of drawer to cupboard top left of hob",
+                "from cupboard top left of sink to counter top left of fridge, then from counter top left of fridge to fridge, then from fridge to counter right of hob, then from counter right of hob to counter top left of fridge",
+                "from counter top left of washingmachine to drawer left of hob",
+                "from counter right of sink to drawer left of hob, then from drawer left of hob to dishwasher, then from dishwasher to drawer right of shelf, then from drawer right of shelf to counter right of hob, then from counter right of hob to microwave, then from microwave to counter top left of dishwasher, then from counter top left of dishwasher to microwave, then from microwave to counter bottom left of microwave, then from counter bottom left of microwave to counter right of hob, then from counter right of hob to counter top left of dishwasher, then from counter top left of dishwasher to dishwasher",
+                "from drawer bottom right of table to counter right of sink, then from counter right of sink to drawer left of hob, then from drawer left of hob to drawer bottom right of table"
+            ],
+            "correct_idx": 12
+        }
+    },
+    {
+        "ingredient_exact_ingredient_recognition_23": {
+            "inputs": {
+                "video 1": {
+                    "id": "P08-20240618-171546"
+                },
+                "video 2": {
+                    "id": "P08-20240613-122900"
+                },
+                "video 3": {
+                    "id": "P08-20240617-184909"
+                },
+                "video 4": {
+                    "id": "P08-20240613-123547"
+                },
+                "video 5": {
+                    "id": "P08-20240614-184945"
+                },
+                "video 6": {
+                    "id": "P08-20240622-141902"
+                },
+                "video 7": {
+                    "id": "P08-20240617-130401"
+                },
+                "video 8": {
+                    "id": "P08-20240614-125650"
+                },
+                "video 9": {
+                    "id": "P08-20240614-132938"
+                },
+                "video 10": {
+                    "id": "P08-20240614-085000"
+                },
+                "video 11": {
+                    "id": "P08-20240618-163547"
+                }
+            },
+            "question": "What was the exact quantity of mixed seeds used in Chopped Salad and Bread",
+            "choices": [
+                "2 tsp",
+                "3 tsp",
+                "4 tsp",
+                "44 g",
+                "31 g",
+                "22 g",
+                "36.85 g",
+                "1.5 teaspoon",
+                "63 g",
+                "3.5 tsp",
+                "320 g",
+                "2.5 tsp",
+                "240 g",
+                "72 g",
+                "103 g"
+            ],
+            "correct_idx": 9
+        }
+    },
+    {
+        "ingredient_exact_ingredient_recognition_5": {
+            "inputs": {
+                "video 1": {
+                    "id": "P08-20240618-171546"
+                },
+                "video 2": {
+                    "id": "P08-20240613-122900"
+                },
+                "video 3": {
+                    "id": "P08-20240617-184909"
+                },
+                "video 4": {
+                    "id": "P08-20240613-123547"
+                },
+                "video 5": {
+                    "id": "P08-20240614-184945"
+                },
+                "video 6": {
+                    "id": "P08-20240622-141902"
+                },
+                "video 7": {
+                    "id": "P08-20240617-130401"
+                },
+                "video 8": {
+                    "id": "P08-20240614-125650"
+                },
+                "video 9": {
+                    "id": "P08-20240614-132938"
+                },
+                "video 10": {
+                    "id": "P08-20240614-085000"
+                },
+                "video 11": {
+                    "id": "P08-20240618-163547"
+                }
+            },
+            "question": "What was the exact quantity of sesame oil used in Crispy Cucumber Salad",
+            "choices": [
+                "0 tbsp",
+                "18 g",
+                "4 tbsp",
+                "3 tbsp",
+                "2 tbsp",
+                "3 tbsp",
+                "361 g",
+                "123 g",
+                "2 tsp",
+                "130 g",
+                "86 g",
+                "89 g",
+                "61 g",
+                "29 g",
+                "1 tbsp"
+            ],
+            "correct_idx": 14
+        }
+    },
+    {
+        "fine_grained_action_localization_9616": {
+            "inputs": {
+                "video 1": {
+                    "id": "P03-20240217-091657",
+                    "start_time": "00:04:30.879",
+                    "end_time": "00:08:37.190"
+                }
+            },
+            "question": "When did the action <pick up small grey plate> happen in the video 1?",
+            "choices": [
+                "video 1 from <TIME 00:41:21.690 video 1> to <TIME 00:41:25.599 video 1>",
+                "video 1 from <TIME 00:08:24.750 video 1> to <TIME 00:08:27.009 video 1>",
+                "video 1 from <TIME 00:08:21.379 video 1> to <TIME 00:08:22.500 video 1>",
+                "video 1 from <TIME 00:04:59.620 video 1> to <TIME 00:05:01.899 video 1>",
+                "video 1 from <TIME 00:15:49.970 video 1> to <TIME 00:15:50.289 video 1>",
+                "video 1 from <TIME 00:06:03.209 video 1> to <TIME 00:06:04.100 video 1>",
+                "video 1 from <TIME 00:26:18.180 video 1> to <TIME 00:26:20.019 video 1>",
+                "video 1 from <TIME 00:15:18.460 video 1> to <TIME 00:15:19.220 video 1>",
+                "video 1 from <TIME 00:15:30.436 video 1> to <TIME 00:15:31.389 video 1>",
+                "video 1 from <TIME 00:07:06.050 video 1> to <TIME 00:07:06.899 video 1>",
+                "video 1 from <TIME 00:15:50.200 video 1> to <TIME 00:15:50.889 video 1>",
+                "video 1 from <TIME 00:10:40.269 video 1> to <TIME 00:10:40.580 video 1>",
+                "video 1 from <TIME 00:12:35.509 video 1> to <TIME 00:12:36.259 video 1>",
+                "video 1 from <TIME 00:17:42.069 video 1> to <TIME 00:17:44.890 video 1>",
+                "video 1 from <TIME 00:32:52.430 video 1> to <TIME 00:33:03.329 video 1>"
+            ],
+            "correct_idx": 2,
+            "stat": {
+                "hard": 2,
+                "middle": 14,
+                "easy": 5
+            }
+        }
+    },
+    {
+        "fine_grained_action_localization_7490": {
+            "inputs": {
+                "video 1": {
+                    "id": "P03-20240217-192543",
+                    "start_time": "00:21:32.339",
+                    "end_time": "00:30:44.740"
+                }
+            },
+            "question": "When did the action <try with right hand> happen in the video 1?",
+            "choices": [
+                "video 1 from <TIME 00:42:05.880 video 1> to <TIME 00:42:10.869 video 1>",
+                "video 1 from <TIME 00:22:27.950 video 1> to <TIME 00:22:28.210 video 1>",
+                "video 1 from <TIME 00:24:10.750 video 1> to <TIME 00:24:11.589 video 1>",
+                "video 1 from <TIME 00:29:06.019 video 1> to <TIME 00:29:07.970 video 1>",
+                "video 1 from <TIME 00:22:45.509 video 1> to <TIME 00:22:46.789 video 1>",
+                "video 1 from <TIME 00:16:19.580 video 1> to <TIME 00:16:20.169 video 1>",
+                "video 1 from <TIME 00:03:41.509 video 1> to <TIME 00:03:41.729 video 1>",
+                "video 1 from <TIME 00:04:39.949 video 1> to <TIME 00:04:40.620 video 1>",
+                "video 1 from <TIME 00:31:12.380 video 1> to <TIME 00:31:13.259 video 1>",
+                "video 1 from <TIME 00:27:52.619 video 1> to <TIME 00:27:53.430 video 1>",
+                "video 1 from <TIME 00:07:03.850 video 1> to <TIME 00:07:04.290 video 1>",
+                "video 1 from <TIME 00:34:58.610 video 1> to <TIME 00:34:59.340 video 1>",
+                "video 1 from <TIME 00:05:04.379 video 1> to <TIME 00:05:06.910 video 1>",
+                "video 1 from <TIME 00:04:05.900 video 1> to <TIME 00:04:06.550 video 1>",
+                "video 1 from <TIME 00:27:42.589 video 1> to <TIME 00:27:49.779 video 1>"
+            ],
+            "correct_idx": 4,
+            "stat": {
+                "hard": 2,
+                "middle": 0,
+                "easy": 9
+            }
+        }
+    },
+    {
+        "recipe_rough_step_localization_71": {
+            "inputs": {
+                "video 1": {
+                    "id": "P08-20240614-184945"
+                }
+            },
+            "question": "Which of these time segments belongs to the Salmon Teriyaki Skewers with Vegetables recipe step Pre-heat air fryer to 180 degrees C in this video?",
+            "choices": [
+                "<TIME 00:00:17.605 video 1> to <TIME 00:00:23.241 video 1>",
+                "<TIME 00:37:36.088 video 1> to <TIME 00:38:03.687 video 1>",
+                "<TIME 00:32:52.922 video 1> to <TIME 00:33:08.565 video 1>",
+                "<TIME 00:34:10.649 video 1> to <TIME 00:34:19.239 video 1>",
+                "<TIME 00:01:38.050 video 1> to <TIME 00:02:15.182 video 1>",
+                "<TIME 00:03:11.252 video 1> to <TIME 00:03:41.698 video 1>",
+                "<TIME 00:01:26.709 video 1> to <TIME 00:01:37.709 video 1>",
+                "<TIME 00:11:34.701 video 1> to <TIME 00:13:22.210 video 1>",
+                "<TIME 00:15:06.670 video 1> to <TIME 00:15:48.413 video 1>",
+                "<TIME 00:39:16.298 video 1> to <TIME 00:42:54.310 video 1>",
+                "<TIME 00:09:20.864 video 1> to <TIME 00:10:28.524 video 1>",
+                "<TIME 00:17:48.665 video 1> to <TIME 00:18:12.790 video 1>",
+                "<TIME 00:06:41.949 video 1> to <TIME 00:06:53.488 video 1>",
+                "<TIME 00:28:06.686 video 1> to <TIME 00:28:48.215 video 1>",
+                "<TIME 00:04:25.488 video 1> to <TIME 00:04:27.024 video 1>"
+            ],
+            "correct_idx": 14
+        }
+    },
+    {
+        "recipe_rough_step_localization_29": {
+            "inputs": {
+                "video 1": {
+                    "id": "P02-20240211-120927"
+                }
+            },
+            "question": "Which of these time segments belongs to the Cheese Baguette recipe step Liberally butter one side of each slice of bread in this video?",
+            "choices": [
+                "<TIME 00:36:22.271 video 1> to <TIME 00:39:20.234 video 1>",
+                "<TIME 00:07:50.033 video 1> to <TIME 00:07:52.158 video 1>",
+                "<TIME 00:12:39.124 video 1> to <TIME 00:12:43.685 video 1>",
+                "<TIME 00:49:44.081 video 1> to <TIME 00:50:18.917 video 1>",
+                "<TIME 00:32:52.922 video 1> to <TIME 00:33:08.565 video 1>",
+                "<TIME 00:06:06.496 video 1> to <TIME 00:06:20.203 video 1>",
+                "<TIME 00:16:45.938 video 1> to <TIME 00:17:00.667 video 1>",
+                "<TIME 00:50:52.417 video 1> to <TIME 00:51:02.024 video 1>",
+                "<TIME 00:14:08.846 video 1> to <TIME 00:15:06.096 video 1>",
+                "<TIME 00:04:25.488 video 1> to <TIME 00:04:27.024 video 1>",
+                "<TIME 00:25:53.619 video 1> to <TIME 00:26:01.614 video 1>",
+                "<TIME 00:11:16.376 video 1> to <TIME 00:12:15.707 video 1>",
+                "<TIME 00:27:58.000 video 1> to <TIME 00:28:05.990 video 1>",
+                "<TIME 00:04:22.478 video 1> to <TIME 00:04:26.695 video 1>",
+                "<TIME 00:02:48.540 video 1> to <TIME 00:03:40.519 video 1>"
+            ],
+            "correct_idx": 3
+        }
+    },
+    {
+        "recipe_recipe_recognition_45": {
+            "inputs": {
+                "video 1": {
+                    "id": "P04-20240413-142619"
+                },
+                "video 2": {
+                    "id": "P04-20240413-145245"
+                },
+                "video 3": {
+                    "id": "P04-20240413-151722"
+                },
+                "video 4": {
+                    "id": "P04-20240414-064514"
+                },
+                "video 5": {
+                    "id": "P04-20240414-065311"
+                },
+                "video 6": {
+                    "id": "P04-20240414-072251"
+                },
+                "video 7": {
+                    "id": "P04-20240414-162242"
+                },
+                "video 8": {
+                    "id": "P04-20240414-162750"
+                },
+                "video 9": {
+                    "id": "P04-20240414-164751"
+                },
+                "video 10": {
+                    "id": "P04-20240414-165333"
+                },
+                "video 11": {
+                    "id": "P04-20240414-170520"
+                },
+                "video 12": {
+                    "id": "P04-20240414-172534"
+                },
+                "video 13": {
+                    "id": "P04-20240414-173337"
+                },
+                "video 14": {
+                    "id": "P04-20240414-175337"
+                },
+                "video 15": {
+                    "id": "P04-20240414-181030"
+                },
+                "video 16": {
+                    "id": "P04-20240415-175615"
+                },
+                "video 17": {
+                    "id": "P04-20240415-181212"
+                },
+                "video 18": {
+                    "id": "P04-20240415-184003"
+                }
+            },
+            "question": "Which of these recipes were carried out by the participant?",
+            "choices": [
+                "Aloo Stuffing for Masala Dosa",
+                "Quiche Lorraine",
+                "Lahmacun (Turkish Flatbread)",
+                "Meatball Marinara",
+                "Stuffed Potato Naan",
+                "Carrot Soup",
+                "Sweet Potato and Lentil Curry",
+                "Granola Bowl",
+                "Potato Samosa",
+                "Date Balls",
+                "Chickpea Stew with Couscous",
+                "Aloo Paratha",
+                "Batata Vada",
+                "Grilled Corn with Herb Butter",
+                "Mediterranean Farro Salad"
+            ],
+            "correct_idx": 0
+        }
+    },
+    {
+        "recipe_recipe_recognition_13": {
+            "inputs": {
+                "video 1": {
+                    "id": "P06-20240510-090328"
+                },
+                "video 2": {
+                    "id": "P06-20240510-094438"
+                },
+                "video 3": {
+                    "id": "P06-20240510-100047"
+                },
+                "video 4": {
+                    "id": "P06-20240510-104642"
+                },
+                "video 5": {
+                    "id": "P06-20240510-115307"
+                },
+                "video 6": {
+                    "id": "P06-20240510-121619"
+                },
+                "video 7": {
+                    "id": "P06-20240510-135423"
+                },
+                "video 8": {
+                    "id": "P06-20240510-140459"
+                },
+                "video 9": {
+                    "id": "P06-20240511-102207"
+                },
+                "video 10": {
+                    "id": "P06-20240511-121048"
+                },
+                "video 11": {
+                    "id": "P06-20240511-122221"
+                }
+            },
+            "question": "Which of these recipes were carried out by the participant?",
+            "choices": [
+                "Cappuccino",
+                "Macchiato",
+                "Greek Chicken Pita",
+                "Carbonara Sauce",
+                "Breadsticks",
+                "Chickpea Curry",
+                "Hot Chocolate",
+                "Chickpea and Spinach Curry with Rice",
+                "Crispy Cucumber Salad",
+                "Vegetable Korma",
+                "Biryani",
+                "Veggie Flatbread with Eggs",
+                "Steamed Bao Buns",
+                "Iced Coffee",
+                "Cafe Mocha"
+            ],
+            "correct_idx": 0
+        }
+    },
+    {
+        "recipe_prep_localization_15": {
+            "inputs": {
+                "video 1": {
+                    "id": "P06-20240510-090328"
+                },
+                "video 2": {
+                    "id": "P06-20240510-094438"
+                },
+                "video 3": {
+                    "id": "P06-20240510-100047"
+                }
+            },
+            "question": "When did the participant perform prep for Take a frying pan and place it on gas stove to heat it up. Place some butter on the heated pan and spread it on the whole pan in a circular motion from recipe Uttapam Pancake?",
+            "choices": [
+                "<TIME 00:15:21.899 video 1> to <TIME 00:15:38.423 video 1> (video 1)",
+                "<TIME 00:15:41.925 video 1> to <TIME 00:16:23.353 video 1> (video 1), <TIME 00:17:10.896 video 1> to <TIME 00:17:17.611 video 1> (video 1), <TIME 00:17:28.090 video 1> to <TIME 00:17:29.696 video 1> (video 1), <TIME 00:17:39.092 video 1> to <TIME 00:17:40.753 video 1> (video 1), <TIME 00:19:19.536 video 1> to <TIME 00:19:26.324 video 1> (video 1), <TIME 00:26:35.234 video 1> to <TIME 00:26:43.479 video 1> (video 1), <TIME 00:27:24.884 video 1> to <TIME 00:27:26.043 video 1> (video 1)",
+                "<TIME 00:03:58.444 video 4> to <TIME 00:04:00.424 video 4> (video 4), <TIME 00:04:07.139 video 4> to <TIME 00:04:08.166 video 4> (video 4), <TIME 00:06:15.459 video 4> to <TIME 00:06:20.500 video 4> (video 4), <TIME 00:06:20.033 video 4> to <TIME 00:06:21.655 video 4> (video 4), <TIME 00:06:46.832 video 4> to <TIME 00:06:54.779 video 4> (video 4)",
+                "<TIME 00:06:22.701 video 1> to <TIME 00:06:27.718 video 1> (video 1), <TIME 00:16:39.707 video 1> to <TIME 00:16:43.129 video 1> (video 1)",
+                "<TIME 00:07:25.098 video 1> to <TIME 00:07:25.879 video 1> (video 1)",
+                "<TIME 00:32:05.525 video 1> to <TIME 00:32:09.007 video 1> (video 1), <TIME 00:32:17.258 video 1> to <TIME 00:32:23.864 video 1> (video 1), <TIME 00:32:52.218 video 1> to <TIME 00:33:20.780 video 1> (video 1)",
+                "<TIME 00:04:57.855 video 1> to <TIME 00:05:05.667 video 1> (video 1), <TIME 00:05:12.194 video 1> to <TIME 00:05:14.810 video 1> (video 1), <TIME 00:05:20.244 video 1> to <TIME 00:05:23.614 video 1> (video 1), <TIME 00:05:45.653 video 1> to <TIME 00:05:51.132 video 1> (video 1), <TIME 00:11:48.739 video 1> to <TIME 00:11:59.239 video 1> (video 1), <TIME 00:04:06.474 video 2> to <TIME 00:04:09.456 video 2> (video 2), <TIME 00:04:14.985 video 2> to <TIME 00:04:16.456 video 2> (video 2), <TIME 00:04:45.022 video 2> to <TIME 00:04:46.670 video 2> (video 2), <TIME 00:04:51.454 video 2> to <TIME 00:04:57.456 video 2> (video 2), <TIME 00:05:44.475 video 2> to <TIME 00:05:48.081 video 2> (video 2)",
+                "<TIME 00:00:55.799 video 1> to <TIME 00:01:03.650 video 1> (video 1), <TIME 00:01:55.007 video 1> to <TIME 00:01:58.346 video 1> (video 1), <TIME 00:05:02.489 video 1> to <TIME 00:05:03.774 video 1> (video 1), <TIME 00:05:47.033 video 1> to <TIME 00:05:48.257 video 1> (video 1), <TIME 00:06:41.897 video 1> to <TIME 00:06:44.310 video 1> (video 1), <TIME 00:07:00.957 video 1> to <TIME 00:07:10.924 video 1> (video 1), <TIME 00:07:45.598 video 1> to <TIME 00:07:46.489 video 1> (video 1), <TIME 00:09:18.838 video 1> to <TIME 00:09:24.810 video 1> (video 1), <TIME 00:09:42.148 video 1> to <TIME 00:09:51.453 video 1> (video 1), <TIME 00:09:54.198 video 1> to <TIME 00:09:59.453 video 1> (video 1)",
+                "<TIME 00:26:06.179 video 1> to <TIME 00:26:06.896 video 1> (video 1)",
+                "<TIME 00:46:08.441 video 1> to <TIME 00:46:11.778 video 1> (video 1)",
+                "<TIME 00:01:24.541 video 1> to <TIME 00:01:30.568 video 1> (video 1), <TIME 00:02:24.134 video 1> to <TIME 00:02:27.480 video 1> (video 1), <TIME 00:03:43.293 video 1> to <TIME 00:03:46.726 video 1> (video 1), <TIME 00:05:09.462 video 1> to <TIME 00:05:33.547 video 1> (video 1), <TIME 00:09:57.450 video 1> to <TIME 00:10:50.353 video 1> (video 1), <TIME 00:11:32.839 video 1> to <TIME 00:12:00.468 video 1> (video 1), <TIME 00:12:06.998 video 1> to <TIME 00:12:08.611 video 1> (video 1), <TIME 00:12:30.035 video 1> to <TIME 00:12:32.439 video 1> (video 1), <TIME 00:12:46.764 video 1> to <TIME 00:13:07.239 video 1> (video 1), <TIME 00:26:47.923 video 1> to <TIME 00:26:59.734 video 1> (video 1)",
+                "<TIME 00:23:32.153 video 1> to <TIME 00:23:34.352 video 1> (video 1), <TIME 00:24:20.951 video 1> to <TIME 00:24:23.098 video 1> (video 1), <TIME 00:00:14.664 video 2> to <TIME 00:00:18.484 video 2> (video 2), <TIME 00:00:57.014 video 2> to <TIME 00:00:58.058 video 2> (video 2), <TIME 00:01:26.818 video 2> to <TIME 00:01:30.040 video 2> (video 2)",
+                "<TIME 00:17:51.876 video 1> to <TIME 00:17:53.811 video 1> (video 1), <TIME 00:27:33.935 video 1> to <TIME 00:27:35.279 video 1> (video 1)",
+                "<TIME 00:12:57.470 video 2> to <TIME 00:13:15.007 video 2> (video 2), <TIME 00:13:21.435 video 2> to <TIME 00:13:44.721 video 2> (video 2)",
+                "<TIME 00:22:15.647 video 1> to <TIME 00:22:24.316 video 1> (video 1), <TIME 00:25:59.806 video 1> to <TIME 00:26:01.225 video 1> (video 1), <TIME 00:00:06.562 video 2> to <TIME 00:00:17.651 video 2> (video 2), <TIME 00:01:52.172 video 2> to <TIME 00:02:01.151 video 2> (video 2), <TIME 00:00:03.402 video 3> to <TIME 00:00:04.774 video 3> (video 3)"
+            ],
+            "correct_idx": 1
+        }
+    },
+    {
+        "recipe_prep_localization_32": {
+            "inputs": {
+                "video 1": {
+                    "id": "P02-20240209-184316"
+                }
+            },
+            "question": "When did the participant perform prep for If your pan isn't large enough, fry the potatoes in two batches - rather than crowding them. Have kitchen paper ready to drain them on. Add the potatoes in a single layer, not too tightly packed from recipe Sauteed Potatoes?",
+            "choices": [
+                "<TIME 00:20:25.618 video 1> to <TIME 00:20:29.262 video 1> (video 1), <TIME 00:28:24.914 video 1> to <TIME 00:28:27.061 video 1> (video 1)",
+                "<TIME 00:21:32.073 video 1> to <TIME 00:21:41.954 video 1> (video 1)",
+                "<TIME 00:13:36.685 video 1> to <TIME 00:13:44.133 video 1> (video 1), <TIME 00:13:49.033 video 1> to <TIME 00:13:59.070 video 1> (video 1), <TIME 00:14:33.129 video 1> to <TIME 00:14:38.739 video 1> (video 1), <TIME 00:17:54.091 video 1> to <TIME 00:17:55.864 video 1> (video 1), <TIME 00:19:10.295 video 1> to <TIME 00:19:11.828 video 1> (video 1), <TIME 00:20:11.946 video 1> to <TIME 00:20:12.864 video 1> (video 1), <TIME 00:21:16.768 video 1> to <TIME 00:21:21.471 video 1> (video 1), <TIME 00:21:29.775 video 1> to <TIME 00:21:31.132 video 1> (video 1), <TIME 00:03:56.846 video 2> to <TIME 00:03:58.185 video 2> (video 2)",
+                "<TIME 00:38:03.776 video 1> to <TIME 00:38:08.805 video 1> (video 1), <TIME 00:38:42.943 video 1> to <TIME 00:38:50.629 video 1> (video 1)",
+                "<TIME 00:00:40.739 video 1> to <TIME 00:00:48.185 video 1> (video 1), <TIME 00:02:12.412 video 1> to <TIME 00:02:13.185 video 1> (video 1), <TIME 00:02:14.453 video 1> to <TIME 00:02:17.971 video 1> (video 1), <TIME 00:01:59.700 video 2> to <TIME 00:02:00.850 video 2> (video 2), <TIME 00:02:03.584 video 2> to <TIME 00:02:04.368 video 2> (video 2), <TIME 00:02:11.832 video 2> to <TIME 00:02:12.243 video 2> (video 2), <TIME 00:04:39.411 video 2> to <TIME 00:04:40.118 video 2> (video 2), <TIME 00:04:43.639 video 2> to <TIME 00:04:44.600 video 2> (video 2), <TIME 00:05:40.293 video 2> to <TIME 00:06:19.672 video 2> (video 2), <TIME 00:11:23.535 video 2> to <TIME 00:11:27.154 video 2> (video 2), <TIME 00:11:42.083 video 2> to <TIME 00:11:46.922 video 2> (video 2), <TIME 00:12:16.905 video 2> to <TIME 00:12:19.422 video 2> (video 2), <TIME 00:14:35.549 video 2> to <TIME 00:14:37.065 video 2> (video 2), <TIME 00:14:42.782 video 2> to <TIME 00:14:43.707 video 2> (video 2), <TIME 00:15:09.908 video 2> to <TIME 00:15:14.761 video 2> (video 2), <TIME 00:15:33.232 video 2> to <TIME 00:15:33.850 video 2> (video 2), <TIME 00:17:54.811 video 2> to <TIME 00:17:55.600 video 2> (video 2)",
+                "<TIME 00:04:56.929 video 1> to <TIME 00:05:33.191 video 1> (video 1), <TIME 00:05:44.229 video 1> to <TIME 00:06:00.067 video 1> (video 1), <TIME 00:06:00.033 video 1> to <TIME 00:06:06.379 video 1> (video 1)",
+                "<TIME 00:14:06.977 video 1> to <TIME 00:14:08.810 video 1> (video 1)",
+                "<TIME 00:07:02.132 video 1> to <TIME 00:07:15.919 video 1> (video 1)",
+                "<TIME 00:26:42.041 video 1> to <TIME 00:26:45.864 video 1> (video 1), <TIME 00:26:48.787 video 1> to <TIME 00:27:02.346 video 1> (video 1), <TIME 00:07:04.733 video 2> to <TIME 00:07:07.814 video 2> (video 2), <TIME 00:07:17.285 video 2> to <TIME 00:07:22.796 video 2> (video 2), <TIME 00:08:24.602 video 2> to <TIME 00:09:18.474 video 2> (video 2), <TIME 00:19:16.768 video 2> to <TIME 00:19:26.385 video 2> (video 2), <TIME 00:23:16.607 video 2> to <TIME 00:23:18.492 video 2> (video 2)",
+                "<TIME 00:10:12.042 video 1> to <TIME 00:10:15.180 video 1> (video 1), <TIME 00:10:31.753 video 1> to <TIME 00:10:39.067 video 1> (video 1), <TIME 00:10:39.033 video 1> to <TIME 00:10:40.029 video 1> (video 1)",
+                "<TIME 00:16:40.250 video 1> to <TIME 00:16:42.685 video 1> (video 1)",
+                "<TIME 00:18:32.093 video 1> to <TIME 00:18:32.739 video 1> (video 1)",
+                "<TIME 00:15:47.785 video 1> to <TIME 00:15:48.703 video 1> (video 1)",
+                "<TIME 00:00:35.739 video 1> to <TIME 00:01:15.007 video 1> (video 1)",
+                "<TIME 00:26:06.179 video 1> to <TIME 00:26:06.896 video 1> (video 1)"
+            ],
+            "correct_idx": 10
+        }
+    },
+    {
+        "ingredient_ingredient_adding_localization_51": {
+            "inputs": {
+                "video 1": {
+                    "id": "P09-20240623-120359"
+                }
+            },
+            "question": "When was ingredient cardamom added to recipe mangsho bhuna?",
+            "choices": [
+                "From <TIME 00:06:59.920 video 1> to <TIME 00:07:00.700 video 1>",
+                "From <TIME 00:23:21.880 video 1> to <TIME 00:23:25.420 video 1>",
+                "From <TIME 00:01:49.050 video 1> to <TIME 00:01:51.440 video 1>",
+                "From <TIME 00:11:59.000 video 1> to <TIME 00:12:01.500 video 1>",
+                "From <TIME 00:01:52.023 video 1> to <TIME 00:01:53.601 video 1>",
+                "From <TIME 00:03:00.720 video 1> to <TIME 00:03:01.910 video 1>",
+                "From <TIME 00:02:04.210 video 1> to <TIME 00:02:13.880 video 1>",
+                "From <TIME 00:15:56.360 video 1> to <TIME 00:15:57.890 video 1>",
+                "From <TIME 00:02:28.644 video 1> to <TIME 00:02:29.801 video 1>",
+                "From <TIME 00:20:22.020 video 1> to <TIME 00:20:23.130 video 1>",
+                "From <TIME 00:02:38.340 video 1> to <TIME 00:02:39.300 video 1>",
+                "From <TIME 00:13:55.700 video 1> to <TIME 00:13:56.130 video 1>",
+                "From <TIME 00:25:59.700 video 1> to <TIME 00:26:01.780 video 1>",
+                "From <TIME 00:24:42.930 video 1> to <TIME 00:25:05.020 video 1>",
+                "From <TIME 00:17:15.670 video 1> to <TIME 00:17:17.350 video 1>"
+            ],
+            "correct_idx": 3,
+            "metadata": [
+                "real segment from similar ingredient: turmeric (0.6855841692894525)",
+                "real segment from similar ingredient: turmeric (0.6855841692894525)",
+                "different real segment from same ingredient",
+                "different real segment from same ingredient",
+                "Positive ingredient (P09_R04_I06)"
+            ]
+        }
+    },
+    {
+        "ingredient_ingredient_adding_localization_41": {
+            "inputs": {
+                "video 1": {
+                    "id": "P02-20240211-182630"
+                }
+            },
+            "question": "When was ingredient sweetcorn added to recipe boiled sweetcorn?",
+            "choices": [
+                "From <TIME 00:26:44.750 video 1> to <TIME 00:26:45.610 video 1>",
+                "From <TIME 00:24:00.290 video 1> to <TIME 00:24:01.840 video 1>",
+                "From <TIME 00:21:34.930 video 1> to <TIME 00:21:36.040 video 1>",
+                "From <TIME 00:07:17.780 video 1> to <TIME 00:07:23.470 video 1>",
+                "From <TIME 00:05:34.060 video 1> to <TIME 00:05:36.091 video 1>",
+                "From <TIME 00:38:03.220 video 1> to <TIME 00:38:04.070 video 1>",
+                "From <TIME 00:06:04.030 video 1> to <TIME 00:06:04.360 video 1>",
+                "From <TIME 00:05:53.010 video 1> to <TIME 00:05:54.370 video 1>",
+                "From <TIME 00:05:56.030 video 1> to <TIME 00:05:58.090 video 1>",
+                "From <TIME 00:09:10.000 video 1> to <TIME 00:09:19.990 video 1>",
+                "From <TIME 00:16:11.360 video 1> to <TIME 00:16:13.070 video 1>",
+                "From <TIME 00:05:21.340 video 1> to <TIME 00:05:21.760 video 1>",
+                "From <TIME 00:20:55.070 video 1> to <TIME 00:20:55.740 video 1>",
+                "From <TIME 00:23:05.320 video 1> to <TIME 00:23:05.980 video 1>",
+                "From <TIME 00:19:37.000 video 1> to <TIME 00:19:43.990 video 1>"
+            ],
+            "correct_idx": 4,
+            "metadata": [
+                "different real segment from same ingredient",
+                "different real segment from same ingredient",
+                "different real segment from same ingredient",
+                "Positive ingredient (P02_R11_I01)",
+                "different real segment from same ingredient"
+            ]
+        }
+    },
+    {
+        "fine_grained_action_recognition_1158": {
+            "inputs": {
+                "video 1": {
+                    "id": "P03-20240217-094713",
+                    "start_time": "00:01:40.989",
+                    "end_time": "00:01:47.010"
+                }
+            },
+            "question": "Which of these sentences best describe the ongoing action(s) in the video 1?",
+            "choices": [
+                "With my left hand, slide the small frying pan along the hob so that the pan is better aligned with the hob, then, with my right hand, put the wooden spoon on the kitchen top, resting it on the brim of the frying pan. however, the spoon falls off the frying pan, so it will be wholly on the kitchen top, then, with my left hand, pick up the knife from the kitchen top above the dishwasher.",
+                "Picking up the sponge from the counter surface using my right hand so that i can continue washing.",
+                "Using my right hand to retrieve beef from the bowl on the counter surface, then, using my right hand to place some beefs in the saucepan.",
+                "Using the right hand, place back an extra lid in the cabinet while holding the plastic box in the left hand, then, using the right hand, close the left door of the cabinet, then, using the right hand, close the right door of the cabinet while holding the plastic box in the left hand.",
+                "I drain the water accumulated in the plastic colander by lifting the outer part of the colander up with my left hand, while holding the inner part of the plastic colander flat with my right hand.",
+                "Using right hand placing the bowl in the stack of the bowls, then, using left hand picking up a saucepan and using right hand picking up a lid from the tabletop.",
+                "Drain water from bowl containing blueberries using my hand to cover the blueberries and avoid them to spill into the sink.",
+                "Draining the water from the saucepan held in my left hand by tilting it over while holding a sponge and a saucepan in my right hand.",
+                "While steadying the tomato, quarter with the left hand, cut out the seeds with the paring knife, then, pick up the scooped out tomato seeds with the left hand.",
+                "With both hands, pick up the cutting board, then, hold the cutting board steady with my left hand and, with the knife in my right hand, scrape the green peppers from the cutting board into the metal bowl, then, with both hands, put the cutting board and the knife back down on the kitchen counter.",
+                "Draining the water in the saucepan held in my right hand by tilting it on its side while placing my left hand on the handle of another saucepan.",
+                "Put down the spatula in the pan with my right hand, then, pick up the spoon from the counter with my left hand.",
+                "Lift up a raspberry lemon curd tart from the muffin tray using the left hand, then, place the raspberry lemon curd into the tupperware box using the left hand.",
+                "Place the large plastic spoon near the side of the sink to be washed up, then, lift up and pour out the water in the washing up bowl using the right hand.",
+                "Draining the water from the pyrex bowl in the sink using my right hand while using my left hand to prevent the meat from falling out."
+            ],
+            "correct_idx": 6,
+            "others": {
+                "actions_num": "1",
+                "num_diffs_verbs": "0",
+                "num_diffs_nouns": "0"
+            }
+        }
+    },
+    {
+        "fine_grained_action_recognition_4245": {
+            "inputs": {
+                "video 1": {
+                    "id": "P02-20240210-113925",
+                    "start_time": "00:00:47.840",
+                    "end_time": "00:00:48.850"
+                }
+            },
+            "question": "Which of these sentences best describe the ongoing action(s) in the video 1?",
+            "choices": [
+                "Put the chopping board using the left hand standing vertically in one of the slots.",
+                "Open the cupboard by pulling it with my right index finger.",
+                "Rub my hands against the wooden spoon while keeping the wooden spoon under the running tap water to rinse the spoon thoroughly.",
+                "With right hand, pick up cucumber, then, place cucumber down on kitchen scale to weigh, then, with right hand pick up phone and bring to left hand.",
+                "Rub hands against each other while holding the sponge between my hands to rinse the sponge and my hands as well, then, with my right hand turn off tap.",
+                "Open the cupboard in the left hand to grab a frying pan or something to cook the bacon with.",
+                "Turn around the grater one hundred and eighty degrees so that the other side can be accessed easily, then, clean the inside of the grater using the sponge in the right hand.",
+                "With my right hand, put down the coffee jug on the kitchen top, then, with my left hand, pick up the coffee filter stand from the drying rack because it is dry now.",
+                "Put the smaller spoon on the cut let it lower, sliding it on another slot, then, close the cutlery drawer using the left hand by pushing it in, then, pick up a bowl that has been soaked in the sink.",
+                "Using my right hand to open the cupboard while also holding a beige mug in my right hand so that i can store the mugs in the cupboard.",
+                "Open the cupboard underneath the sink and put the disinfectant away in the cupboard.",
+                "Pick up the kettle from the countertop and open its lid using the thumb, pressing on the button that opens the lid.",
+                "Open the cupboard to grab something to put the zested lemon down onto.",
+                "With my right hand pick up tomato puree tube cap from the kitchen top, then, close the tomato puree tube by twisting its cap clockwise with my right hand.",
+                "Using the right hand, pick up another bottle from the tabletop, then, using the tablecloth, wipe the water from the surface of the tabletop."
+            ],
+            "correct_idx": 5,
+            "others": {
+                "actions_num": "1",
+                "num_diffs_verbs": "0",
+                "num_diffs_nouns": "0"
+            }
+        }
+    },
+    {
+        "fine_grained_how_recognition_388": {
+            "inputs": {
+                "video 1": {
+                    "id": "P01-20240204-142301",
+                    "start_time": "00:08:05.470",
+                    "end_time": "00:08:13.120"
+                }
+            },
+            "question": "What is the best description for how the person carried out the action <peel another layer of onion> in this video segment?",
+            "choices": [
+                "using the right hand and lift the bowl up.",
+                "using the left hand to rinse out the drain protector.",
+                "by pulling the outer skin layer of the onion with left hand,",
+                "by putting the lid on the jar and turning the lid on the jar clockwise to close the jar.",
+                "by pulling the skin, then I pluck the skin from the onion root.",
+                "by pressing the lid",
+                "by pinching the edge of the layer with the right hand and pulling the edge of the layer out.",
+                "by pulling the onion skin with left hand",
+                "by putting the bottle lid on top of the bottle, then twisting the lid clockwise using left hand.",
+                "by pulling the drawer of the freezer with left hand.",
+                "by unfolding the cover.",
+                "tilt the lid of the bottle using the right hand",
+                "using the left hand and then push it in with both hands.",
+                "using right hand.",
+                "by holding the two sides from one end using both hands and pulling away"
+            ],
+            "correct_idx": 6
+        }
+    },
+    {
+        "fine_grained_how_recognition_227": {
+            "inputs": {
+                "video 1": {
+                    "id": "P02-20240210-113925",
+                    "start_time": "00:06:38.389",
+                    "end_time": "00:06:39.269"
+                }
+            },
+            "question": "What is the best description for how the person carried out the action <lift up frying pan> in this video segment?",
+            "choices": [
+                "using the left hand and at the same time pick up the heat diffuser from the other burner using the right hand.",
+                "using the spatula, moving the spatula in circular motions.",
+                "by applying pressure at the edge of countertop.",
+                "using the right hand, placing the pan upside down.",
+                "by pressing the buttons at the bottom of the hob with right hand.",
+                "Using right hand to pick up the frying pan from the sink",
+                "using the left hand and transfer a cheese straw onto the plate.",
+                "using the right hand to twist the dial.",
+                "by releasing the lid from the right hand.",
+                "by grabbing the pan handlebar.",
+                "by rolling the top part of the plastic bag on itself multiple times.",
+                "using the left hand and lift the frying pan from the hob.",
+                "using the left hand to both shake the pan and also to check the flame.",
+                "by crumpling the plastic bag of bay leaves opening with both hands.",
+                "by pushing down the rubbish bin lid with left hand."
+            ],
+            "correct_idx": 12
+        }
+    },
+    {
+        "3d_perception_object_location_305": {
+            "inputs": {
+                "video 1": {
+                    "id": "P03-20240218-190556"
+                }
+            },
+            "question": "Where did I put the object identified by <BBOX 825.37931 618.39564 981.2559 766.60617> at <TIME 00:12:2.633 video 1> after taking it at <TIME 00:12:2.633 video 1>?",
+            "choices": [
+                "shelf top right from sink",
+                "shelf right from dishwasher",
+                "cupboard left from extractor fan",
+                "drawer left from fridge",
+                "counter top left from fridge",
+                "windowsill top right from dishwasher",
+                "drawer bottom left from oven",
+                "cupboard top right from shelf",
+                "counter left from microwave",
+                "bin bottom right from radiator",
+                "cupboard bottom right from sink",
+                "hook right from freezer",
+                "table right from radiator",
+                "cupboard right from oven",
+                "extractor_fan"
+            ],
+            "correct_idx": 8
+        }
+    },
+    {
+        "3d_perception_object_location_386": {
+            "inputs": {
+                "video 1": {
+                    "id": "P01-20240202-161354"
+                }
+            },
+            "question": "Where did I take the object identified by <BBOX 1071.04273 471.74017 1374.3041099999998 678.72821> at <TIME 00:04:13.167 video 1> from before putting it at <TIME 00:04:13.167 video 1>?",
+            "choices": [
+                "bin right from radiator",
+                "counter right from hob",
+                "top of cupboard top left from windowsill",
+                "sink",
+                "shelf right from boiler",
+                "basket top right from table",
+                "drawer left from hob",
+                "drawer right from dishwasher",
+                "floor",
+                "oven right from freezer",
+                "hob",
+                "top of storage right from shelf",
+                "top of cupboard top left from hob",
+                "drawer right from fridge",
+                "drawer right from shelf"
+            ],
+            "correct_idx": 10
+        }
+    },
+    {
+        "3d_perception_fixture_interaction_counting_127": {
+            "inputs": {
+                "video 1": {
+                    "id": "P05-20240424-085204"
+                }
+            },
+            "question": "How many times did I close the item indicated by bounding box <BBOX 328.7464737121611 820.586885145914 1020.6832309200445 1408.0> in <TIME 00:01:21.2 video 1>?",
+            "choices": [
+                "0",
+                "4",
+                "4",
+                "3",
+                "2",
+                "1",
+                "2",
+                "5",
+                "9",
+                "7",
+                "0",
+                "3",
+                "8",
+                "1",
+                "6"
+            ],
+            "correct_idx": 0
+        }
+    },
+    {
+        "3d_perception_fixture_interaction_counting_11": {
+            "inputs": {
+                "video 1": {
+                    "id": "P01-20240203-123350"
+                }
+            },
+            "question": "How many times did I open the item indicated by bounding box <BBOX 871.5099443789541 610.2532431361656 1061.0321899168378 812.7982854812612> in <TIME 00:18:52.9 video 1>?",
+            "choices": [
+                "9",
+                "4",
+                "0",
+                "3",
+                "1",
+                "7",
+                "1",
+                "3",
+                "6",
+                "8",
+                "0",
+                "2",
+                "4",
+                "2",
+                "5"
+            ],
+            "correct_idx": 11
+        }
+    },
+    {
+        "recipe_multi_step_localization_43": {
+            "inputs": {
+                "video 1": {
+                    "id": "P08-20240618-171546"
+                }
+            },
+            "question": "In this video, when did the participant perform each of the following Spaghetti Bolognese recipe steps: \"Heat the oil in a frying pan over a medium-high heat. Add the onion and cook for 5 minutes, stirring often, until the onion softens\", \"Add the carrot, celery, bell peppers, and mushrooms and cook for a further 2-3 minutes\", \"Add the minced beef and cook for 5-6 minutes, until browned. Stir often, breaking up any large chunks of meat with a spatula\"?",
+            "choices": [
+                "<TIME 00:14:14.809 video 1> to <TIME 00:14:55.398 video 1>, <TIME 00:11:27.004 video 1> to <TIME 00:11:38.610 video 1>, <TIME 00:17:26.704 video 1> to <TIME 00:17:57.599 video 1>",
+                "<TIME 00:05:57.475 video 1> to <TIME 00:06:15.904 video 1>, <TIME 00:01:48.313 video 1> to <TIME 00:02:12.172 video 1>, <TIME 00:04:17.828 video 1> to <TIME 00:04:20.167 video 1>",
+                "<TIME 00:08:30.355 video 1> to <TIME 00:08:35.274 video 1>, <TIME 00:07:27.388 video 1> to <TIME 00:07:29.310 video 1>, <TIME 00:03:22.364 video 1> to <TIME 00:03:24.400 video 1>",
+                "<TIME 00:44:07.453 video 1> to <TIME 00:44:24.774 video 1>, <TIME 00:00:26.099 video 1> to <TIME 00:00:29.221 video 1>, <TIME 00:31:31.713 video 1> to <TIME 00:31:52.060 video 1>",
+                "<TIME 00:00:07.029 video 1> to <TIME 00:00:15.493 video 1>, <TIME 00:08:21.261 video 1> to <TIME 00:08:53.082 video 1>, <TIME 00:00:52.932 video 1> to <TIME 00:01:41.797 video 1>",
+                "<TIME 00:12:02.925 video 1> to <TIME 00:12:21.291 video 1>, <TIME 00:02:33.281 video 1> to <TIME 00:02:39.220 video 1>, <TIME 00:43:25.687 video 1> to <TIME 00:43:29.217 video 1>",
+                "<TIME 00:40:36.250 video 1> to <TIME 00:40:43.757 video 1>, <TIME 00:12:54.742 video 1> to <TIME 00:12:55.033 video 1>, <TIME 00:32:50.359 video 1> to <TIME 00:32:53.229 video 1>",
+                "<TIME 00:04:39.411 video 1> to <TIME 00:04:40.118 video 1>, <TIME 00:11:23.535 video 1> to <TIME 00:11:27.154 video 1>, <TIME 00:02:00.850 video 1> to <TIME 00:02:02.529 video 1>",
+                "<TIME 00:49:14.444 video 1> to <TIME 00:49:15.596 video 1>, <TIME 00:50:42.033 video 1> to <TIME 00:50:51.170 video 1>, <TIME 00:36:02.742 video 1> to <TIME 00:36:04.047 video 1>",
+                "<TIME 00:12:16.905 video 1> to <TIME 00:12:19.422 video 1>, <TIME 00:14:43.707 video 1> to <TIME 00:15:00.368 video 1>, <TIME 00:00:06.279 video 1> to <TIME 00:00:07.029 video 1>",
+                "<TIME 00:15:35.696 video 1> to <TIME 00:15:46.953 video 1>, <TIME 00:10:03.788 video 1> to <TIME 00:10:49.185 video 1>, <TIME 00:02:32.100 video 1> to <TIME 00:02:40.174 video 1>",
+                "<TIME 00:30:34.200 video 1> to <TIME 00:30:35.274 video 1>, <TIME 00:41:33.036 video 1> to <TIME 00:41:44.923 video 1>, <TIME 00:36:29.808 video 1> to <TIME 00:36:45.479 video 1>",
+                "<TIME 00:07:44.861 video 1> to <TIME 00:08:09.274 video 1>, <TIME 00:07:56.274 video 1> to <TIME 00:08:09.274 video 1>, <TIME 00:03:12.310 video 1> to <TIME 00:03:16.185 video 1>",
+                "<TIME 00:18:55.769 video 1> to <TIME 00:19:12.940 video 1>, <TIME 00:14:42.782 video 1> to <TIME 00:14:43.707 video 1>, <TIME 00:19:32.190 video 1> to <TIME 00:19:35.815 video 1>",
+                "<TIME 00:02:11.832 video 1> to <TIME 00:02:12.243 video 1>, <TIME 00:17:54.811 video 1> to <TIME 00:17:55.600 video 1>, <TIME 00:04:40.208 video 1> to <TIME 00:04:42.011 video 1>"
+            ],
+            "correct_idx": 4
+        }
+    },
+    {
+        "recipe_multi_step_localization_25": {
+            "inputs": {
+                "video 1": {
+                    "id": "P02-20240211-115653"
+                }
+            },
+            "question": "In this video, when did the participant perform each of the following Cheese Straws recipe steps: \"heat oven to 220c/fan 200c/gas 7\", \"On a lightly floured surface, roll out to the thickness of a 1 pound coin. Cut into 1cm strips, then twist the strips 3-4 times\", \"Unroll a puff pastry, scatter over a couple of handfuls of grated Parmesan and then grate over the cheddar cheese, then fold in half\"?",
+            "choices": [
+                "<TIME 00:04:17.661 video 1> to <TIME 00:04:25.171 video 1>, <TIME 00:03:16.168 video 1> to <TIME 00:03:30.514 video 1>, <TIME 00:03:08.476 video 1> to <TIME 00:03:15.476 video 1>",
+                "<TIME 00:23:03.238 video 1> to <TIME 00:23:27.769 video 1>, <TIME 00:21:29.821 video 1> to <TIME 00:21:46.837 video 1>, <TIME 00:11:29.583 video 1> to <TIME 00:11:34.701 video 1>",
+                "<TIME 00:13:29.185 video 1> to <TIME 00:13:30.774 video 1>, <TIME 00:04:16.927 video 1> to <TIME 00:04:19.287 video 1>, <TIME 00:09:33.685 video 1> to <TIME 00:11:15.633 video 1>",
+                "<TIME 00:04:11.783 video 1> to <TIME 00:04:23.681 video 1>, <TIME 00:06:06.496 video 1> to <TIME 00:06:20.203 video 1>, <TIME 00:06:48.033 video 1> to <TIME 00:06:49.336 video 1>",
+                "<TIME 00:22:33.691 video 1> to <TIME 00:22:40.403 video 1>, <TIME 00:18:36.860 video 1> to <TIME 00:19:03.800 video 1>, <TIME 00:22:46.796 video 1> to <TIME 00:23:57.873 video 1>",
+                "<TIME 00:09:07.033 video 1> to <TIME 00:09:08.781 video 1>, <TIME 00:14:08.240 video 1> to <TIME 00:15:01.544 video 1>, <TIME 00:24:36.655 video 1> to <TIME 00:24:47.248 video 1>",
+                "<TIME 00:18:27.655 video 1> to <TIME 00:18:53.399 video 1>, <TIME 00:12:39.272 video 1> to <TIME 00:12:49.913 video 1>, <TIME 00:15:51.660 video 1> to <TIME 00:15:52.524 video 1>",
+                "<TIME 00:19:16.445 video 1> to <TIME 00:19:37.436 video 1>, <TIME 00:07:50.033 video 1> to <TIME 00:07:52.158 video 1>, <TIME 00:18:44.665 video 1> to <TIME 00:18:49.533 video 1>",
+                "<TIME 00:00:06.822 video 1> to <TIME 00:00:13.654 video 1>, <TIME 00:05:10.844 video 1> to <TIME 00:05:14.042 video 1>, <TIME 00:03:23.280 video 1> to <TIME 00:03:42.935 video 1>",
+                "<TIME 00:05:57.475 video 1> to <TIME 00:06:15.904 video 1>, <TIME 00:01:48.313 video 1> to <TIME 00:02:12.172 video 1>, <TIME 00:04:17.828 video 1> to <TIME 00:04:20.167 video 1>",
+                "<TIME 00:20:16.071 video 1> to <TIME 00:20:25.074 video 1>, <TIME 00:24:23.098 video 1> to <TIME 00:24:42.261 video 1>, <TIME 00:01:24.541 video 1> to <TIME 00:01:30.568 video 1>",
+                "<TIME 00:02:24.409 video 1> to <TIME 00:02:41.067 video 1>, <TIME 00:08:50.118 video 1> to <TIME 00:08:55.507 video 1>, <TIME 00:01:00.918 video 1> to <TIME 00:01:03.417 video 1>",
+                "<TIME 00:11:37.494 video 1> to <TIME 00:11:52.578 video 1>, <TIME 00:13:51.404 video 1> to <TIME 00:14:00.733 video 1>, <TIME 00:14:01.025 video 1> to <TIME 00:15:00.767 video 1>",
+                "<TIME 00:06:17.872 video 1> to <TIME 00:06:29.332 video 1>, <TIME 00:06:44.237 video 1> to <TIME 00:06:50.433 video 1>, <TIME 00:04:20.033 video 1> to <TIME 00:04:20.572 video 1>",
+                "<TIME 00:10:20.591 video 1> to <TIME 00:10:22.989 video 1>, <TIME 00:06:50.458 video 1> to <TIME 00:07:52.739 video 1>, <TIME 00:04:21.647 video 1> to <TIME 00:05:01.007 video 1>"
+            ],
+            "correct_idx": 14
+        }
+    },
+    {
+        "ingredient_ingredients_order_3": {
+            "inputs": {
+                "video 1": {
+                    "id": "P09-20240624-160737"
+                }
+            },
+            "question": "What is the order of ingredients added to the dish in this video?",
+            "choices": [
+                "garlic and ginger paste, salt, onions, beef, tomatoes",
+                "tomatoes, salt, beef, onions, garlic and ginger paste",
+                "chopped tomatoes, water, mango chutney",
+                "chilli powder, turmeric, tandoori masala, garam masala",
+                "garlic and ginger paste, beef, tomatoes, onions, salt",
+                "salt, sugar, flour, instant yeast",
+                "flour, bananas, egg yolk, butter, vanilla extract",
+                "beef, tomatoes, garlic and ginger paste, onions, salt",
+                "vegetable oil, chicken breasts, courgette, red curry paste, coconut milk",
+                "coconut milk, soy sauce, garlic, spring onions, cashew nuts",
+                "onions, butternut squash, split red lentils, garlic & coconut paste, sunflower oil",
+                "salt, beef, onions, garlic and ginger paste, tomatoes",
+                "biscuits, unsalted butter, cocoa powder, condensed milk",
+                "potatoes, olive oil, salt",
+                "strawberry granola, almond milk (unsweetened), ground cinnamon"
+            ],
+            "correct_idx": 0
+        }
+    },
+    {
+        "ingredient_ingredients_order_18": {
+            "inputs": {
+                "video 1": {
+                    "id": "P03-20240217-192543"
+                }
+            },
+            "question": "What is the order of ingredients added to the dish in this video?",
+            "choices": [
+                "cherry tomatoes, lemon juice, red onions, salt, black pepper",
+                "chestnut mushrooms, salt, garlic powder, black pepper",
+                "black pepper, salt, garlic powder, chestnut mushrooms",
+                "tomatoes, salt, onions, black pepper, garlic",
+                "oil, turmeric powder, salt, brown onions, green chillies",
+                "chestnut mushrooms, black pepper, garlic powder, salt",
+                "chestnut mushrooms, salt, black pepper, garlic powder",
+                "garlic and ginger paste, yoghurt, beef, garam masala, water",
+                "coconut milk, chickpeas, spinach, water, lemon juice",
+                "coffee, whole milk, sugar, water",
+                "carrots, rocket, chicken thighs, tabbouleh salad, olive oil cooking spray",
+                "instant dosa mix, ghee, olive oil",
+                "beef, yoghurt, water, garam masala, garlic and ginger paste",
+                "salt, chestnut mushrooms, black pepper, garlic powder",
+                "vegetable oil, coconut milk, red curry paste, chicken breasts, courgette"
+            ],
+            "correct_idx": 6
+        }
+    },
+    {
+        "recipe_step_recognition_63": {
+            "inputs": {
+                "video 1": {
+                    "id": "P05-20240425-201444"
+                }
+            },
+            "question": "What step did the participant do between <TIME 00:13:30.073 video 1> and <TIME 00:15:13.073 video 1> in this video?",
+            "choices": [
+                "Puree the soup in batches in a blender until smooth. (Use caution when pureeing hot liquids.) Stir in spice mix and fresh coriander",
+                "Grease the insides of two small ramekins or pudding moulds with butter, put the cocoa in one, and turn and tip to coat the insides, holding it over the other ramekin to catch any powder. Tip the rest of the cocoa into the second ramekin and repeat",
+                "Break the chocolate into fairly evenly sized pieces - I find the easiest and most satisfying way to start this process is to leave it in the packet, or put it in a resealable bag, give it a good whack against the work surface, then chop up any large pieces that remain. Cut the butter into chunky dice",
+                "Stir the ingredients in the bowl together to mix",
+                "Crumble the blue cheese into the bowl",
+                "Divide the batter between the two moulds, leaving a little room at the top for them to rise. If you'd like to eat them immediately, put them on the hot baking tray in the oven for 12 minutes, until the tops are set and the cake mix is just starting to come away from the sides of the moulds",
+                "Season with salt and pepper and continue to cook, stirring regularly, for 8 mins until the fresh mushrooms have softened",
+                "Meanwhile, finely dice the tomatoes and finely slice the red onion. Mix with the zingy lemon juice and season well. Set aside",
+                "Put the egg and egg yolk in a large bowl with the sugar and a pinch of salt. Vigorously whisk by hand or with electric beaters, until the mixture is pale yellow and voluminous. Very gently fold in the melted chocolate mixture with a large metal spoon, taking care not to knock too much air out of the batter. Repeat with the flour",
+                "Leave the butter and chocolate to melt together, stirring now and then to encourage them along. Once you have a smooth, well-blended mixture, turn off the heat, lift the bowl off the pan (remember that it will be hot) and pour the mixture into a cold bowl or jug to cool slightly while you prepare the rest of the batter",
+                "Add turmeric powder, coriander powder, garam masala powder, red chilli powder, and salt to the mixture and saute the mixture uniformly. Then add 1/2 cup water and stir. Wait for the whole mixture to homogenise",
+                "Divide the batter between the two moulds, leaving a little room at the top for them to rise. If you'd like to eat them immediately, put them on the hot baking tray in the oven for 12 minutes, until the tops are set and the cake mix is just starting to come away from the sides of the moulds",
+                "Finely chop the onions",
+                "Once the meat is cooked and tender, add the fried onion, cumin, garam masala, ghee and chili and cook through until the meat is tender",
+                "Fill a cup with whole milk and heat it in the microwave for 3-4 minutes. Stir the heated milk with a milk frother to make the cappuccino frothier"
+            ],
+            "correct_idx": 5
+        }
+    },
+    {
+        "recipe_step_recognition_77": {
+            "inputs": {
+                "video 1": {
+                    "id": "P08-20240613-123547"
+                }
+            },
+            "question": "What step did the participant do between <TIME 00:16:43.578 video 1> and <TIME 00:16:46.044 video 1> in this video?",
+            "choices": [
+                "Fry the potatoes on a medium-heat pan with abundant oil turning the potatoes frequently so that they don't burn. Split larger chunks with a spatula as they soften while cooking to ensure an even size of chunks. Add a pinch of salt while frying the potatoes",
+                "Crumble the blue cheese into the bowl",
+                "Next, chop your cucumbers, cherry tomatoes, carrot, coriander, and red onion, and add them to a large bowl alongside the beans and diced tomatoes",
+                "To make this salad, start by preparing the dressing. Whisk the dressing ingredients together, in a small bowl, until they're fully combined. Taste and add additional seasonings, if desired",
+                "Add vanilla extract. Mix well",
+                "Serve immediately and enjoy!",
+                "Add the curry Masala or ground spices to the pan and continue to cook on a low heat for 45 seconds",
+                "The bowl of granola with almond milk is ready to be served",
+                "Cover the pot and bring to a boil for about 30 minutes, occasionally stirring",
+                "Slice piece of sourdough bread and place on side of bowl",
+                "When the pan is hot enough, pour a ladle full of batter in the centre of the pan. At this stage the pan has to be hot otherwise the batter won't rise and the uttapams will be flat",
+                "Add turmeric powder, coriander powder, garam masala powder, red chilli powder, and salt to the mixture and saute the mixture uniformly. Then add 1/2 cup water and stir. Wait for the whole mixture to homogenise",
+                "Toss to combine, then pour the dressing on top and toss once more until the salad ingredients are fully coated in the dressing",
+                "Do not spread the batter too much, uthappam has to be made thick. If the batter doesn't spread on its own, then you may lightly spread a bit. Lower the flame",
+                "Stir the chickpeas and roast for 10 to 15 more minutes"
+            ],
+            "correct_idx": 5
+        }
+    },
+    {
+        "nutrition_video_nutrition_estimation_10": {
+            "inputs": {
+                "video 1": {
+                    "id": "P08-20240617-184909"
+                }
+            },
+            "question": "What is the ingredient with highest calories in this recipe?",
+            "choices": [
+                "soy sauce",
+                "balsamic glaze",
+                "strawberry granola",
+                "chilli",
+                "sesame oil",
+                "vegetable oil",
+                "sweet potatoes",
+                "olive oil cooking spray",
+                "black pepper",
+                "sundried tomato couscous",
+                "black pepper",
+                "cod fishcakes",
+                "salmon fishcakes",
+                "spring greens",
+                "garlic powder"
+            ],
+            "correct_idx": 12,
+            "metadata": [
+                {
+                    "source": "same recipe",
+                    "val_gap": 0.8,
+                    "ing_id": "P08_R07_I09"
+                },
+                {
+                    "source": "same recipe",
+                    "val_gap": 0.8,
+                    "ing_id": "P08_R07_I12"
+                },
+                {
+                    "source": "positive",
+                    "val_gap": "positive",
+                    "ing_id": "P08_R07_I13"
+                },
+                {
+                    "source": "same recipe",
+                    "val_gap": 0,
+                    "ing_id": "P08_R07_I01"
+                },
+                {
+                    "source": "same recipe",
+                    "val_gap": 0.4,
+                    "ing_id": "P08_R07_I04"
+                }
+            ]
+        }
+    },
+    {
+        "nutrition_video_nutrition_estimation_29": {
+            "inputs": {
+                "video 1": {
+                    "id": "P08-20240617-130401"
+                }
+            },
+            "question": "What is the ingredient with highest fat in this recipe?",
+            "choices": [
+                "baby spinach",
+                "bamboo shoots",
+                "tuna",
+                "chilli powder",
+                "olive oil",
+                "ground cinnamon",
+                "black pepper",
+                "mixed bean salad",
+                "coriander powder",
+                "mixed bean salad",
+                "coriander",
+                "cumin seeds",
+                "salted butter",
+                "black beans",
+                "red curry paste"
+            ],
+            "correct_idx": 4,
+            "metadata": [
+                {
+                    "source": "same recipe",
+                    "val_gap": 0,
+                    "ing_id": "P08_R06_I06"
+                },
+                {
+                    "source": "same recipe",
+                    "val_gap": 0,
+                    "ing_id": "P08_R06_I05"
+                },
+                {
+                    "source": "positive",
+                    "val_gap": "positive",
+                    "ing_id": "P08_R06_I01"
+                },
+                {
+                    "source": "same recipe",
+                    "val_gap": 0,
+                    "ing_id": "P08_R06_I02"
+                },
+                {
+                    "source": "same recipe",
+                    "val_gap": 0,
+                    "ing_id": "P08_R06_I04"
+                }
+            ]
+        }
+    },
+    {
+        "nutrition_image_nutrition_estimation_25": {
+            "inputs": {
+                "image 1": {
+                    "id": "P05-20240427-145526",
+                    "time": "00:03:06.882"
+                },
+                "image 2": {
+                    "id": "P08-20240617-184909",
+                    "time": "00:30:41.075"
+                },
+                "image 3": {
+                    "id": "P01-20240203-130505",
+                    "time": "00:01:07.344"
+                },
+                "image 4": {
+                    "id": "P07-20240529-194518",
+                    "time": "00:26:10.963"
+                },
+                "image 5": {
+                    "id": "P07-20240529-191007",
+                    "time": "00:23:22.525"
+                }
+            },
+            "question": "Which of the ingredients in these images showcase higher calories?",
+            "choices": [
+                "salted butter",
+                "grana padano",
+                "cod fishcakes",
+                "sweet potatoes",
+                "butter",
+                "chocolate",
+                "bacon",
+                "urad dal",
+                "cashew nuts",
+                "balsamic glaze",
+                "oil",
+                "red bell pepper",
+                "chicken stock cube",
+                "ginger paste",
+                "white onions"
+            ],
+            "correct_idx": 8,
+            "metadata": [
+                {
+                    "ingredient": "cashew nuts",
+                    "ingredient_id": "P05_R06_I04",
+                    "video_id": "P05-20240427-145526",
+                    "add_start": 186.882,
+                    "add_end": 180.439,
+                    "amount": 85.0,
+                    "calories": 504.0,
+                    "fat": 43.0,
+                    "carbs": 16.0,
+                    "protein": 17.0,
+                    "calories_amount_ratio": 5.929411764705883
+                },
+                {
+                    "ingredient": "cod fishcakes",
+                    "ingredient_id": "P08_R07_I12",
+                    "video_id": "P08-20240617-184909",
+                    "add_start": 1841.075,
+                    "add_end": 1843.0,
+                    "amount": 1.0,
+                    "calories": 266.0,
+                    "fat": 13.0,
+                    "carbs": 25.0,
+                    "protein": 11.0,
+                    "calories_amount_ratio": 266.0
+                },
+                {
+                    "ingredient": "salted butter",
+                    "ingredient_id": "P01_R06_I03",
+                    "video_id": "P01-20240203-130505",
+                    "add_start": 67.344,
+                    "add_end": 89.264,
+                    "amount": 46.0,
+                    "calories": 331.0,
+                    "fat": 36.8,
+                    "carbs": 0.3,
+                    "protein": 0.2,
+                    "calories_amount_ratio": 7.195652173913044
+                },
+                {
+                    "ingredient": "butter",
+                    "ingredient_id": "P07_R03_I12",
+                    "video_id": "P07-20240529-194518",
+                    "add_start": 1570.963,
+                    "add_end": 1580.908,
+                    "amount": 39.0,
+                    "calories": 280.0,
+                    "fat": 32.0,
+                    "carbs": 0.0,
+                    "protein": 0.0,
+                    "calories_amount_ratio": 7.17948717948718
+                },
+                {
+                    "ingredient": "oil",
+                    "ingredient_id": "P07_R03_I03",
+                    "video_id": "P07-20240529-191007",
+                    "add_start": 1402.525,
+                    "add_end": 1402.083,
+                    "amount": 3.0,
+                    "calories": 378.0,
+                    "fat": 42.0,
+                    "carbs": 0.0,
+                    "protein": 0.0,
+                    "calories_amount_ratio": 126.0
+                }
+            ]
+        }
+    },
+    {
+        "nutrition_image_nutrition_estimation_34": {
+            "inputs": {
+                "image 1": {
+                    "id": "P04-20240414-170520",
+                    "time": "00:13:56.000"
+                },
+                "image 2": {
+                    "id": "P04-20240413-151722",
+                    "time": "00:03:56.191"
+                },
+                "image 3": {
+                    "id": "P04-20240415-181212",
+                    "time": "00:01:34.000"
+                },
+                "image 4": {
+                    "id": "P04-20240413-142619",
+                    "time": "00:07:30.749"
+                },
+                "image 5": {
+                    "id": "P06-20240511-102207",
+                    "time": "00:07:19.956"
+                }
+            },
+            "question": "Which of the ingredients in these images showcase higher protein?",
+            "choices": [
+                "coriander",
+                "pizza dough",
+                "green chillies",
+                "split red lentils",
+                "yoghurt",
+                "uttapam mix",
+                "oregano",
+                "coriander",
+                "flour",
+                "spinach",
+                "ginger paste",
+                "tomatoes",
+                "onions",
+                "pasta",
+                "sriracha"
+            ],
+            "correct_idx": 12,
+            "metadata": [
+                {
+                    "ingredient": "coriander",
+                    "ingredient_id": "P04_R04_I05",
+                    "video_id": "P04-20240414-170520",
+                    "add_start": 836.0,
+                    "add_end": 847.99,
+                    "amount": 0.2,
+                    "calories": 4.0,
+                    "fat": 0.1,
+                    "carbs": 0.6,
+                    "protein": 0.3,
+                    "protein_amount_ratio": 1.4999999999999998
+                },
+                {
+                    "ingredient": "sriracha",
+                    "ingredient_id": "P04_R01_I11",
+                    "video_id": "P04-20240413-151722",
+                    "add_start": 236.191,
+                    "add_end": 241.001,
+                    "amount": 1.0,
+                    "calories": 21.0,
+                    "fat": 0.2,
+                    "carbs": 4.5,
+                    "protein": 0.3,
+                    "protein_amount_ratio": 0.3
+                },
+                {
+                    "ingredient": "green chillies",
+                    "ingredient_id": "P04_R06_I04",
+                    "video_id": "P04-20240415-181212",
+                    "add_start": 94.0,
+                    "add_end": 116.99,
+                    "amount": 11.5,
+                    "calories": 3.0,
+                    "fat": 0.1,
+                    "carbs": 0.3,
+                    "protein": 0.3,
+                    "protein_amount_ratio": 0.02608695652173913
+                },
+                {
+                    "ingredient": "oregano",
+                    "ingredient_id": "P04_R01_I02",
+                    "video_id": "P04-20240413-142619",
+                    "add_start": 450.749,
+                    "add_end": 452.99,
+                    "amount": 1.0,
+                    "calories": 9.0,
+                    "fat": 0.3,
+                    "carbs": 1.8,
+                    "protein": 0.3,
+                    "protein_amount_ratio": 0.3
+                },
+                {
+                    "ingredient": "onions",
+                    "ingredient_id": "P06_R06_I03",
+                    "video_id": "P06-20240511-102207",
+                    "add_start": 439.956,
+                    "add_end": 443.969,
+                    "amount": 36.85,
+                    "calories": 16.0,
+                    "fat": 0.0,
+                    "carbs": 3.7,
+                    "protein": 0.4,
+                    "protein_amount_ratio": 0.01085481682496608
+                }
+            ]
+        }
+    }
+]

@@ -64,7 +64,7 @@ python run_shap_metrics.py --model videollama3 -d egoschema -s subsets/egoschema
 
 * Download How2QA checkpoint from [here](https://drive.google.com/file/d/1mJnO2CUUuyfQ6ic2bU6PbuivmArvXAOT/view).
 
-* Update the `<FROZENBILM-PATH>` to be the path to this checkpoint.
+* Update the `<FROZENBILM-PATH>` placeholder to be the path to this checkpoint.
 
 * Create environment:
 
@@ -96,9 +96,9 @@ pip install shap
 
 * Download InternVideo checkpoint from [here](https://wenjuan.feishu.cn/m/res?t=syQjww7QWNJi-jk5u).
 
-* Update the `<INTERNVIDEO-VIT-PATH>` to be the path to the ViT checkpoint.
+* Update the `<INTERNVIDEO-VIT-PATH>` placeholder to be the path to the ViT checkpoint.
 
-* Update the `<INTERNVIDEO-PATH>` to be the path to the InternVideo checkpoint.
+* Update the `<INTERNVIDEO-PATH>` placeholder to be the path to the InternVideo checkpoint.
 
 * Create environment:
 
@@ -255,6 +255,12 @@ pip install decord
 ```
 
 ### VideoLLaMA3
+
+* Download VideoLLaMA3 checkpoint from [here](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA3-7B).
+
+* Convert the checkpoint for local use with [convert_hf_checkpoint.py](./videollama3/scripts/convert_hf_checkpoint.py).
+
+* Update the `<VIDEOLLAMA3-PATH>` placeholder to be the path to this checkpoint.
 
 * Create environment:
 

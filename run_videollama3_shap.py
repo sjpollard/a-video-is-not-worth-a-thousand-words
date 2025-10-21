@@ -94,7 +94,7 @@ LVBENCH_CONFIG = {'qa_folder': '<LVBENCH_PATH>',
                   'load_frames': load_lvbench_frames}
 
 
-VIDEOLLAMA3_WEIGHTS_PATH = "/mnt/data/checkpoints/videollama3_7b"
+VIDEOLLAMA3_WEIGHTS_PATH = "<VIDEOLLAMA3-PATH>"
 
 
 def parse_args():

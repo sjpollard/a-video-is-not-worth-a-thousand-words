@@ -42,6 +42,8 @@ Which of these two frames do you think is more important for answering the given
 # Links
 [Code](https://github.com/sjpollard/a-video-is-not-worth-a-thousand-words) | [arXiv]()
 
+# Acknowledgments
+
 # Bibtex
 
 ```

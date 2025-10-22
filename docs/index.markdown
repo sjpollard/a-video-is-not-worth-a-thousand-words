@@ -14,7 +14,7 @@ University of Bristol
 
 arXiv
 
-<img src="assets/intro.png" width="922" height="448"/>
+![Intro](./assets/intro.png)
 
 # Abstract
 
@@ -22,22 +22,29 @@ As we become increasingly dependent on vision language models (VLMs) to answer q
 
 # Method
 
-<img src="assets/method.gif" width="480" height="270"/>
+![Method](./assets/method.gif)
 
 Given an input VQA-tuple, we want to know how much each feature contributes towards the model output. We calculate these contributions using [Shapley values](https://en.wikipedia.org/wiki/Shapley_value), resulting in output much like the above animation. With these contributions we then calculate a modality contribution (from the contribution of the entire modality) and a per-feature contribution (from the average contribution of each feature). Here are input modalities are video, question and answer.
 
 # Results
 
-<img src="assets/table.png" width="480" height="270"/>
+![Table](./assets/table.png)
 
 In this table we show our metrics for a range of model and dataset combinations. Red cells are closer to minimum contribution and blue cells are closer to maximum contribution. We see that generally video has low modality contribution, and even the stronger models show extremely low per-frame contributions. Furthermore, question features are consistently less important than answer features. Does this really make sense?
 
 # Analysis
 
-<img src="assets/smarter_than_a_vlm.gif" width="480" height="270"/>
+![Question](./assets/smarter_than_a_vlm.gif)
 
-Which of these two frames do you think is more important for answering the given question? It's *obviously* the one on the right. However, the Shapley values indicate that the one on the left actually contributes more. Just take a look at the teaser figure at the top of the page. Feature contributions often don't correlate with common sense, even in extremely simple scenarios.
+Which of these two frames do you think is more important for answering the given question? It's *obviously* the one on the right. However, the Shapley values indicate that the one on the left actually contributes more. Just take a look at the teaser figure at the top of the page (compare frame 6 to frame 15). Feature contributions often don't correlate with common sense, even in extremely simple scenarios.
 
+![Answer Replacement](./assets/gemini_correlation.png)
+
+In fact, if we get Gemini to rank the frames in order of importance to answer these questions, we can then directly compare them to the rankings we obtain by sorting the frames by the magnitude of their Shapley values. The above violins plot the [Spearman's correlation](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient) between these rankings. They are essentially uncorrelated!
+
+![Answer Replacement](./assets/answer_replacement.png)
+
+So what's the path forward? Current multiple choice VQA is clearly lacking when it comes to truly benchmarking the video understanding of these models. Dataset design is difficult, and so is generating good negatives, so it's extremely rare to see more than 4-5 answer options. We tried injecting new *trivial* options into VQA-tuples, far beyond this limit. Above we can see that the video and question contributions increase, while answer contributions decrease, with the benchmark also becoming more challenging.
 
 # Links
 [Code](https://github.com/sjpollard/a-video-is-not-worth-a-thousand-words) | [arXiv]()

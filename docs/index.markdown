@@ -51,6 +51,10 @@ So what's the path forward? Current multiple choice VQA is clearly lacking when 
 
 # Acknowledgments
 
+Research supported by EPSRC Doctoral Training Partnerships (DTP).
+The authors would like to thank Rhodri Guerrier and Kranti Parida for their comments on the paper.
+The authors acknowledge the use of resources provided by the Isambard-AI National AI Research Resource (AIRR). Isambard-AI is operated by the University of Bristol and is funded by the UK Government’s Department for Science, Innovation and Technology (DSIT) via UK Research and Innovation; and the Science and Technology Facilities Council [ST/AIRR/I-A-I/1023].
+
 # Bibtex
 
 ```

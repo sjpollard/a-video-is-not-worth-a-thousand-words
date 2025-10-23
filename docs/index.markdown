@@ -24,7 +24,7 @@ As we become increasingly dependent on vision language models (VLMs) to answer q
 
 ![Method](./assets/method.gif)
 
-Given an input VQA-tuple, we want to know how much each feature contributes towards the model output. We calculate these contributions using [Shapley values](https://en.wikipedia.org/wiki/Shapley_value), resulting in output much like the above animation. With these contributions we then calculate a modality contribution (from the contribution of the entire modality) and a per-feature contribution (from the average contribution of each feature). Here are input modalities are video, question and answer.
+Given an input VQA-tuple, we want to know how much each feature contributes towards the model output. We calculate these contributions using [Shapley values](https://en.wikipedia.org/wiki/Shapley_value) (which are positive/negative real numbers), resulting in output much like the above animation. Then we take the absolute value (we primarily care about magnitude instead of direction), and either sum them, or average them for each modality. These modality values then form ratios that we call modality contributions (from the contribution of the entire modality) and a per-feature contributions (from the average contribution of each feature). Here our input modalities are video, question and answer.
 
 # Results
 
@@ -45,6 +45,16 @@ In fact, if we get Gemini to rank the frames in order of importance to answer th
 ![Answer Replacement](./assets/answer_replacement.png)
 
 So what's the path forward? Current multiple choice VQA is clearly lacking when it comes to truly benchmarking the video understanding of these models. Dataset design is difficult, and so is generating good negatives, so it's extremely rare to see more than 4-5 answer options. We tried injecting new *trivial* options into VQA-tuples, far beyond this limit. Above we can see that the video and question contributions increase, while answer contributions decrease, with the benchmark also becoming more challenging.
+
+# Conclusion
+
+* Video is necessary for getting the best performance (these models/datasets are not image blind), but information is much denser in the text modality.
+
+* In principle this might be fine if keyframes are well attended to, but frame attributions often enough don’t make sense.
+
+* We can add trivial negatives to increase the contribution of video and question modalities (while making the original task no more different for humans).
+
+* For various reasons, multiple choice VQA is limited in evaluating the understanding of VLMs.
 
 # Links
 [Code](https://github.com/sjpollard/a-video-is-not-worth-a-thousand-words) | [arXiv]()

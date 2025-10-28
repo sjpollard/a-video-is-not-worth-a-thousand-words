@@ -57,7 +57,7 @@ So what's the path forward? Current multiple choice VQA is clearly lacking when 
 * For various reasons, multiple choice VQA is limited in evaluating the understanding of VLMs.
 
 # Links
-[Code](https://github.com/sjpollard/a-video-is-not-worth-a-thousand-words) | [arXiv]()
+[Code](https://github.com/sjpollard/a-video-is-not-worth-a-thousand-words) | [arXiv](https://arxiv.org/abs/2510.23253)
 
 # Acknowledgments
 
@@ -68,6 +68,13 @@ The authors acknowledge the use of resources provided by the Isambard-AI Nationa
 # Bibtex
 
 ```
-
+@article{DBLP:journals/corr/abs-2510.23253,
+  author       = {Sam Pollard and
+                  Michael Wray},
+  title        = {A Video Is Not Worth a Thousand Words},
+  journal      = {CoRR},
+  volume       = {abs/2510.23253},
+  year         = {2025}
+}
 ```
 

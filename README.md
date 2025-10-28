@@ -354,4 +354,13 @@ Our code is based upon the following prior works: [FrozenBiLM](https://github.co
 
 ## Citation
 
-TBC
+```
+@article{DBLP:journals/corr/abs-2510.23253,
+  author       = {Sam Pollard and
+                  Michael Wray},
+  title        = {A Video Is Not Worth a Thousand Words},
+  journal      = {CoRR},
+  volume       = {abs/2510.23253},
+  year         = {2025}
+}
+```

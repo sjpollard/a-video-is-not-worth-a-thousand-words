@@ -48,9 +48,9 @@ Generated Shapley values are saved in [shap_results](./shap_results) in the foll
 
 | element |	A | B | C | D | E: Ground Truth |
 | - | - | - | - | - | - |
-| frame_0 |	-0.05 |	-0.01875 | -0.03125 | -0.003125 | -0.009375 |
+| feature_0 |	-0.05 |	-0.01875 | -0.03125 | -0.003125 | -0.009375 |
 | ... |	... | ... | ... | ... | ... |
-| frame_n-1 |	0.003125 | 0.003125 | 0.009375 | 0.04375 | 0.003125 | 
+| feature_n-1 |	0.003125 | 0.003125 | 0.009375 | 0.04375 | 0.003125 | 
 
 Metrics for dataset subsets can be computed with the following command:
 

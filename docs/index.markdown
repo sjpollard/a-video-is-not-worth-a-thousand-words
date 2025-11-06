@@ -18,7 +18,7 @@ arXiv
 
 # Video
 
-{% include youtube.html id=”ZVwG5YkpooI” %}
+{% include youtube.html id='ZVwG5YkpooI' %}
 
 # Abstract
 

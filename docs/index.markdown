@@ -18,7 +18,9 @@ arXiv
 
 # Video
 
+{% raw %}
 {% include youtube.html id=”ZVwG5YkpooI” %}
+{% endraw %}
 
 # Abstract
 
